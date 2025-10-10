@@ -1,0 +1,441 @@
+﻿[Script Info]
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 708
+PlayResY: 480
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lucida Console,30,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+Dialogue: 0,0:00:08.34,0:00:10.41,Default,,0,0,0,,{\an1\pos(64,120)\i1}OOH ! CAREFUL, HOMER !{\i0}
+Dialogue: 0,0:00:10.41,0:00:12.86,Default,,0,0,0,,{\an1\pos(64,144)}\h\h\h\h\h\h\h\h\h{\i1}THERE'S NO TIME TO BE\N\h\h\h\h\h\h\h\h\hCAREFUL. WE'RE LATE.{\i0}
+Dialogue: 0,0:00:14.86,0:00:18.81,Default,,0,0,0,,{\an1\pos(64,120)\i1}♪ O LITTLE TOWN OF BETHLEHEM ♪{\i0}
+Dialogue: 0,0:00:18.82,0:00:23.33,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ HOW STILL WE SEE THEE LIE ♪{\i0}
+Dialogue: 0,0:00:23.32,0:00:26.40,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h♪\NSORRY. EXCUSE ME. PARDON ME.
+Dialogue: 0,0:00:26.41,0:00:28.22,Default,,0,0,0,,{\an1\pos(208,408)}SORRY. EXCUSE ME.\N\h\h\h\h\h\h\h\hHEY, NORMAN,\N\h\h\h\h\h\h\h\hHOW'S IT GOIN' ?
+Dialogue: 0,0:00:28.21,0:00:30.21,Default,,0,0,0,,{\an1\pos(136,432)}SO YOU GOT DRAGGED DOWN HERE\NTOO, HUH ?
+Dialogue: 0,0:00:30.21,0:00:32.21,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\hHOW YOU DOIN', FRED ?\NSORRY. EXCUSE ME.
+Dialogue: 0,0:00:32.21,0:00:34.21,Default,,0,0,0,,{\an1\pos(136,384)}- YEAH. 'SCUSE ME. OH !\N- \h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:00:34.22,0:00:37.73,Default,,0,0,0,,{\an1\pos(136,432)}PARDON MY GALOSHES.
+Dialogue: 0,0:00:37.72,0:00:42.22,Default,,0,0,0,,{\an1\pos(136,432)}♪ ARE MET IN THEE TONIGHT ♪
+Dialogue: 0,0:00:44.23,0:00:46.74,Default,,0,0,0,,{\an1\pos(208,432)}WASN'T THAT WONDERFUL ?
+Dialogue: 0,0:00:46.73,0:00:51.23,Default,,0,0,0,,{\an1\pos(208,432)}AND NOW\N"SANTAS OF MANY LANDS,"
+Dialogue: 0,0:00:51.23,0:00:54.73,Default,,0,0,0,,{\an1\pos(136,432)}AS PRESENTED BY THE ENTIRE\NSECOND GRADE CLASS.
+Dialogue: 0,0:00:54.74,0:00:57.20,Default,,0,0,0,,{\an1\pos(64,432)}OH ! LISA'S CLASS.
+Dialogue: 0,0:00:57.19,0:00:59.69,Default,,0,0,0,,{\an1\pos(154,432)\i1}FROHLICHE WEIHNACHTEN.{\i0}
+Dialogue: 0,0:00:59.69,0:01:02.19,Default,,0,0,0,,{\an1\pos(136,432)}THAT'S GERMAN FOR\N"MERRY CHRISTMAS."
+Dialogue: 0,0:01:02.19,0:01:07.70,Default,,0,0,0,,{\an1\pos(136,432)}IN GERMANY, SANTA'S SERVANT\NRUPRECHT GIVES PRESENTS\NTO GOOD CHILDREN...
+Dialogue: 0,0:01:07.70,0:01:11.20,Default,,0,0,0,,{\an1\pos(136,432)}AND WHIPPING RODS\NTO THE PARENTS OF BAD ONES.
+Dialogue: 0,0:01:14.17,0:01:16.17,Default,,0,0,0,,{\an1\pos(64,432)\i1}MERRY{\r} KURISUMASU.{\i0}
+Dialogue: 0,0:01:16.17,0:01:21.63,Default,,0,0,0,,{\an1\pos(136,432)}I AM HOTSEIOSHA,\NA JAPANESE PRIEST\NWHO ACTS LIKE SANTA CLAUS.
+Dialogue: 0,0:01:21.63,0:01:24.13,Default,,0,0,0,,{\an1\pos(136,432)}I HAVE EYES\NIN THE BACK OF MY HEAD...
+Dialogue: 0,0:01:24.13,0:01:27.63,Default,,0,0,0,,{\an1\pos(136,432)}SO CHILDREN BETTER BEHAVE\NWHEN I'M NEARBY.
+Dialogue: 0,0:01:29.64,0:01:33.11,Default,,0,0,0,,{\an1\pos(64,432)\i1}NOW PRESENTING LISA SIMPSON...{\i0}
+Dialogue: 0,0:01:33.11,0:01:38.62,Default,,0,0,0,,{\an1\pos(64,432)}AS TAWANGA, THE SANTA CLAUS\NOF THE SOUTH SEAS.
+Dialogue: 0,0:01:38.61,0:01:40.61,Default,,0,0,0,,{\an1\pos(64,432)\i1}OOH, IT'S LISA !\NTHAT'S OURS.{\i0}
+Dialogue: 0,0:01:54.55,0:01:58.56,Default,,0,0,0,,{\an1\pos(208,432)}AH, THE FOURTH GRADE\NWILL NOW FAVOR US\NWITH A MELODY--
+Dialogue: 0,0:01:58.55,0:02:02.55,Default,,0,0,0,,{\an1\pos(208,432)}UH, MEDLEY\NOF HOLIDAY "FLAVORITES."
+Dialogue: 0,0:02:02.55,0:02:05.05,Default,,0,0,0,,{\an1\pos(136,432)}♪ DASHING THROUGH THE SNOW ♪
+Dialogue: 0,0:02:05.06,0:02:07.57,Default,,0,0,0,,{\an1\pos(64,432)}♪ IN A ONE-HORSE OPEN SLEIGH ♪
+Dialogue: 0,0:02:07.56,0:02:09.56,Default,,0,0,0,,{\an1\pos(136,432)}♪ O'ER THE FIELDS WE GO ♪
+Dialogue: 0,0:02:09.56,0:02:11.56,Default,,0,0,0,,{\an1\pos(136,432)}♪ LAUGHING ALL THE WAY\N\h\hHA HA HA ♪
+Dialogue: 0,0:02:11.56,0:02:14.06,Default,,0,0,0,,{\an1\pos(136,432)}♪ BELLS ON BOBTAIL RING ♪
+Dialogue: 0,0:02:14.07,0:02:17.08,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h{\i1}♪\N{\r}ISN'T BART SWEET, HOMER ?{\i0}
+Dialogue: 0,0:02:17.07,0:02:20.54,Default,,0,0,0,,{\an1\pos(64,432)}HE SINGS LIKE AN ANGEL.
+Dialogue: 0,0:02:20.54,0:02:24.12,Default,,0,0,0,,{\an1\pos(136,432)}♪ OH, JINGLE BELLS\N\h\hBATMAN SMELLS ♪
+Dialogue: 0,0:02:24.13,0:02:26.13,Default,,0,0,0,,{\an1\pos(136,432)}♪ ROBIN LAID AN EGG ♪
+Dialogue: 0,0:02:26.13,0:02:28.14,Default,,0,0,0,,{\an1\pos(136,432)}♪ THE BATMOBILE\N\h\hBROKE ITS WHEEL ♪
+Dialogue: 0,0:02:28.13,0:02:30.46,Default,,0,0,0,,{\an1\pos(136,432)}♪ THE JOKER GOT AWA-- ♪
+Dialogue: 0,0:02:30.47,0:02:32.64,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ JINGLE BELLS\N\h\h\hJINGLE BELLS ♪{\i0}
+Dialogue: 0,0:02:32.63,0:02:34.63,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ JINGLE ALL ♪{\i0}
+Dialogue: 0,0:02:34.64,0:02:37.15,Default,,0,0,0,,{\an1\pos(64,432)\i1}THE FIFTH GRADE\NWILL NOW FAVOR US...{\i0}
+Dialogue: 0,0:02:37.14,0:02:42.14,Default,,0,0,0,,{\an1\pos(64,432)\i1}WITH A SCENE FROM\NCHARLES, UH, DICKENS'\N{\r}A CHRISTMAS CAROL.{\i0}
+Dialogue: 0,0:02:42.14,0:02:46.64,Default,,0,0,0,,{\an1\pos(208,432)}HOW MANY GRADES\NDOES THIS SCHOOL HAVE ?
+Dialogue: 0,0:02:46.65,0:02:50.66,Default,,0,0,0,,{\an1\pos(208,432)}"DEAR FRIENDS\N\hOF THE SIMPSON FAMILY,
+Dialogue: 0,0:02:50.65,0:02:53.65,Default,,0,0,0,,{\an1\pos(136,432)}"WE HAD SOME SADNESS AND\N\hSOME GLADNESS THIS YEAR.
+Dialogue: 0,0:02:53.66,0:02:56.16,Default,,0,0,0,,{\an1\pos(136,432)}"FIRST, THE SADNESS.\N\hOUR LITTLE CAT SNOWBALL...
+Dialogue: 0,0:02:56.16,0:02:59.17,Default,,0,0,0,,{\an1\pos(136,432)}"WAS UNEXPECTEDLY RUN OVER\N\hAND WENT TO KITTY HEAVEN.
+Dialogue: 0,0:02:59.16,0:03:02.16,Default,,0,0,0,,{\an1\pos(298,432)\i1}"BUT WE BOUGHT\N\hA NEW LITTLE CAT,\N\hSNOWBALL II.{\i0}
+Dialogue: 0,0:03:02.16,0:03:04.66,Default,,0,0,0,,{\an1\pos(298,408)\i1}\h\h\h\h"SO I GUESS\N\h\h\h\h\hLIFE GOES ON.{\i0}
+Dialogue: 0,0:03:04.67,0:03:09.68,Default,,0,0,0,,{\an1\pos(136,432)}"SPEAKING OF LIFE GOING ON,\N\hGRANDPA IS STILL WITH US,\N\hFEISTY AS EVER.
+Dialogue: 0,0:03:09.67,0:03:11.67,Default,,0,0,0,,{\an1\pos(82,432)}"MAGGIE IS WALKING BY HERSELF,
+Dialogue: 0,0:03:11.67,0:03:15.17,Default,,0,0,0,,{\an1\pos(64,432)\i1}"LISA GOT STRAIGHT A's,\N\hAND BART--{\i0}
+Dialogue: 0,0:03:15.68,0:03:17.69,Default,,0,0,0,,{\an1\pos(64,432)\i1}"WELL, WE LOVE BART.{\i0}
+Dialogue: 0,0:03:17.68,0:03:20.68,Default,,0,0,0,,{\an1\pos(136,432)}"THE MAGIC OF THE SEASON\N\hHAS TOUCHED US ALL.
+Dialogue: 0,0:03:20.68,0:03:23.18,Default,,0,0,0,,{\an1\pos(136,432)}MARGE, HAVEN'T YOU FINISHED\NTHAT STUPID LETTER YET ?
+Dialogue: 0,0:03:23.18,0:03:26.68,Default,,0,0,0,,{\an1\pos(136,432)}- "HOMER SENDS HIS LOVE.\N\h\h\hHAPPY HOLIDAYS.\N- MARGE !
+Dialogue: 0,0:03:26.69,0:03:28.70,Default,,0,0,0,,{\an1\pos(136,432)}- THE SIMPSONS."\N- MARGE, WHERE'S\N\h\hTHE EXTENSION CORD ?
+Dialogue: 0,0:03:28.69,0:03:31.69,Default,,0,0,0,,{\an1\pos(136,432)}FOR HEAVEN'S SAKE, HOMER.\NIT'S IN THE UTILITY DRAWER.
+Dialogue: 0,0:03:31.69,0:03:34.19,Default,,0,0,0,,{\an1\pos(208,432)}SORRY.\NI'M JUST A BIG KID.
+Dialogue: 0,0:03:34.20,0:03:36.70,Default,,0,0,0,,{\an1\pos(208,432)}AND I LOVE CHRISTMAS\NSO MUCH.
+Dialogue: 0,0:03:37.70,0:03:40.65,Default,,0,0,0,,{\an1\pos(424,432)}D'OH !
+Dialogue: 0,0:03:40.65,0:03:43.15,Default,,0,0,0,,{\an1\pos(136,432)}ALL RIGHT, CHILDREN,\NLET ME HAVE THOSE LETTERS.
+Dialogue: 0,0:03:43.15,0:03:45.65,Default,,0,0,0,,{\an1\pos(136,432)}I'LL SEND THEM\NTO SANTA'S WORKSHOP\NAT THE NORTH POLE.
+Dialogue: 0,0:03:45.66,0:03:48.17,Default,,0,0,0,,{\an1\pos(208,432)}OH, PLEASE.\NTHERE'S ONLY ONE FAT GUY\NTHAT BRINGS US PRESENTS,
+Dialogue: 0,0:03:48.16,0:03:50.12,Default,,0,0,0,,{\an1\pos(352,432)}AND HIS NAME\NAIN'T SANTA.
+Dialogue: 0,0:03:50.13,0:03:53.17,Default,,0,0,0,,{\an1\pos(136,432)}UH-- A PONY ?
+Dialogue: 0,0:03:53.16,0:03:57.17,Default,,0,0,0,,{\an1\pos(64,432)}OH, LISA, YOU'VE ASKED FOR THAT\NFOR THE LAST THREE YEARS,
+Dialogue: 0,0:03:57.17,0:04:00.67,Default,,0,0,0,,{\an1\pos(136,432)}AND I KEEP TELLING YOU\NSANTA CAN'T FIT A PONY\NINTO HIS SLEIGH.
+Dialogue: 0,0:04:00.67,0:04:02.67,Default,,0,0,0,,{\an1\pos(136,432)}CAN'T YOU TAKE A HINT ?
+Dialogue: 0,0:04:02.67,0:04:04.67,Default,,0,0,0,,{\an1\pos(64,432)}BUT I REALLY WANT A PONY,
+Dialogue: 0,0:04:04.68,0:04:07.82,Default,,0,0,0,,{\an1\pos(64,408)}AND I'VE BEEN REALLY,\NREALLY GOOD THIS YEAR.\N{\i1}OH, DEAR.{\i0}
+Dialogue: 0,0:04:07.81,0:04:10.68,Default,,0,0,0,,{\an1\pos(136,432)}MAYBE BART IS\NA LITTLE MORE REALISTIC.
+Dialogue: 0,0:04:10.68,0:04:12.68,Default,,0,0,0,,{\an1\pos(208,432)}- A TATTOO ?\N- A WHAT ?
+Dialogue: 0,0:04:12.68,0:04:15.18,Default,,0,0,0,,{\an1\pos(136,432)}YEAH ! THEY'RE COOL,\NAND THEY LAST\NTHE REST OF YOUR LIFE.
+Dialogue: 0,0:04:15.19,0:04:17.70,Default,,0,0,0,,{\an1\pos(136,432)}YOU WILL NOT BE GETTING\NA TATTOO FOR CHRISTMAS.
+Dialogue: 0,0:04:17.69,0:04:21.19,Default,,0,0,0,,{\an1\pos(64,432)}YEAH. IF YOU WANT ONE,\NYOU'LL HAVE TO PAY FOR IT\NOUT OF YOUR OWN ALLOWANCE.
+Dialogue: 0,0:04:21.19,0:04:22.69,Default,,0,0,0,,{\an1\pos(208,432)}- ALL RIGHT !\N- HOMER !
+Dialogue: 0,0:04:22.69,0:04:24.69,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h"YELLO."
+Dialogue: 0,0:04:24.70,0:04:26.70,Default,,0,0,0,,{\an1\pos(208,408)}MARGE, PLEASE.\N\h\h\h\h\h\h\h\hWHO'S THIS ?
+Dialogue: 0,0:04:26.70,0:04:28.71,Default,,0,0,0,,{\an1\pos(64,432)}MAY I PLEASE SPEAK TO MARGE ?
+Dialogue: 0,0:04:28.70,0:04:31.70,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h\h\h\h\hTHIS IS HER SISTER,\N\h\h\h\h\h\h\h\h\h\h\h\hISN'T IT ?\NIS MARGE THERE ?
+Dialogue: 0,0:04:31.70,0:04:35.17,Default,,0,0,0,,{\an1\pos(136,408)}\h\h\h\h\h\h\h\hWHO SHALL I SAY\N\h\h\h\h\h\h\h\hIS CALLING ?\NMARGE, PLEASE.
+Dialogue: 0,0:04:35.17,0:04:38.17,Default,,0,0,0,,{\an1\pos(64,384)\i1}IT'S YOUR SISTER.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\r}OH !{\i0}
+Dialogue: 0,0:04:38.18,0:04:41.19,Default,,0,0,0,,{\an1\pos(280,408)}\h\h\h\h\h\h\h\h\h\h\h\hHELLO.\NHELLO, MARGE.\NIT'S PATTY.
+Dialogue: 0,0:04:41.18,0:04:45.68,Default,,0,0,0,,{\an1\pos(64,432)}SELMA AND I COULDN'T BE\NMORE EXCITED ABOUT SEEING OUR\NBABY SISTER FOR CHRISTMAS EVE.
+Dialogue: 0,0:04:45.68,0:04:49.68,Default,,0,0,0,,{\an1\pos(280,432)}WELL, HOMER AND I\NARE LOOKING FORWARD\NTO YOUR VISIT TOO.
+Dialogue: 0,0:04:51.69,0:04:54.19,Default,,0,0,0,,{\an1\pos(208,432)}SOMEHOW I DOUBT\NTHAT HOMER IS EXCITED.
+Dialogue: 0,0:04:54.19,0:04:56.19,Default,,0,0,0,,{\an1\pos(208,432)}OF ALL THE MEN\NYOU COULD'VE MARRIED,
+Dialogue: 0,0:04:56.19,0:04:59.19,Default,,0,0,0,,{\an1\pos(208,432)}I DON'T KNOW WHY\NYOU PICKED ONE WHO'S\NALWAYS SO RUDE TO US.
+Dialogue: 0,0:04:59.20,0:05:01.71,Default,,0,0,0,,{\an1\pos(208,408)}- \h\h\h\h\h\h\h\hGOOD ONE, DAD.\N- \h\h\h\h\h\h\h\h
+Dialogue: 0,0:05:01.70,0:05:04.20,Default,,0,0,0,,{\an1\pos(208,432)}OKAY, KIDS,\NPREPARE TO BE DAZZLED.
+Dialogue: 0,0:05:04.20,0:05:07.20,Default,,0,0,0,,{\an1\pos(136,432)}MARGE, TURN ON THE JUICE !
+Dialogue: 0,0:05:09.71,0:05:12.17,Default,,0,0,0,,{\an1\pos(136,384)}\h\h\h\h\h\h\h\h\NWHAT DO YOU THINK, KIDS ?
+Dialogue: 0,0:05:12.16,0:05:14.16,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hNICE TRY, DAD.
+Dialogue: 0,0:05:14.16,0:05:16.16,Default,,0,0,0,,{\an1\pos(154,432)\i1}JUST HOLD YOUR HORSES, SON.\NHEY, SIMPSON !{\i0}
+Dialogue: 0,0:05:16.16,0:05:20.16,Default,,0,0,0,,{\an1\pos(64,408)}WHAT IS IT, FLANDERS ?\N\h\h\h\h\h\h\h\h\h\h\h\hDO YOU THINK\N\h\h\h\h\h\h\h\h\h\h\h\hTHIS LOOKS OKAY ?
+Dialogue: 0,0:05:20.17,0:05:24.18,Default,,0,0,0,,{\an1\pos(208,432)}HO HO HO. HO HO HO.
+Dialogue: 0,0:05:24.17,0:05:26.17,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOH !\NOH, NEATO !
+Dialogue: 0,0:05:26.17,0:05:28.17,Default,,0,0,0,,{\an1\pos(136,432)}IT'S TOO BRIGHT.
+Dialogue: 0,0:05:28.18,0:05:30.69,Default,,0,0,0,,{\an1\pos(136,432)}I OUGHTA-- FLANDERS.\NWHAT A BIG SHOW-OFF.
+Dialogue: 0,0:05:33.68,0:05:36.16,Default,,0,0,0,,{\an1\pos(136,432)}- KIDS, YOU WANNA GO\N\h\hCHRISTMAS SHOPPING ?\N- I DO !
+Dialogue: 0,0:05:36.17,0:05:38.68,Default,,0,0,0,,{\an1\pos(136,432)}- ALL RIGHT ! THE MALL !\N- GO GET YOUR MONEY.
+Dialogue: 0,0:05:38.67,0:05:41.95,Default,,0,0,0,,{\an1\pos(136,432)}TELL US, MARGE.\NWHERE HAVE YOU BEEN HIDING\NTHE CHRISTMAS MONEY ?
+Dialogue: 0,0:05:41.96,0:05:44.72,Default,,0,0,0,,{\an1\pos(136,432)}OH, I HAVE MY SECRETS.
+Dialogue: 0,0:05:44.71,0:05:47.18,Default,,0,0,0,,{\an1\pos(136,432)}TURN AROUND.
+Dialogue: 0,0:05:49.81,0:05:53.61,Default,,0,0,0,,{\an1\pos(136,432)}- YOU CAN LOOK NOW.\N- OOH ! BIG JAR THIS YEAR.
+Dialogue: 0,0:06:04.21,0:06:07.66,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ {\i0}
+Dialogue: 0,0:06:13.22,0:06:15.22,Default,,0,0,0,,{\an1\pos(280,432)}OH, BART,\NTHAT'S SO SWEET.
+Dialogue: 0,0:06:15.22,0:06:17.72,Default,,0,0,0,,{\an1\pos(208,432)}IT'S THE BEST PRESENT\NA MOTHER COULD GET,
+Dialogue: 0,0:06:17.73,0:06:20.23,Default,,0,0,0,,{\an1\pos(208,432)}AND IT MAKES YOU LOOK\NSO DANGEROUS.
+Dialogue: 0,0:06:22.73,0:06:25.18,Default,,0,0,0,,{\an1\pos(64,384)\i1\r}ONE "MOTHER," PLEASE.{\i0}
+Dialogue: 0,0:06:25.18,0:06:27.23,Default,,0,0,0,,{\an1\pos(280,432)}WAIT A MINUTE.\NHOW OLD ARE YOU ?
+Dialogue: 0,0:06:27.24,0:06:29.23,Default,,0,0,0,,{\an1\pos(136,432)}- TWENTY-ONE, SIR.\N- GET IN THE CHAIR.
+Dialogue: 0,0:06:30.72,0:06:35.19,Default,,0,0,0,,{\an1\pos(226,432)\i1}♪ {\i0}
+Dialogue: 0,0:06:35.19,0:06:37.16,Default,,0,0,0,,{\an1\pos(64,432)}MM-HMM.
+Dialogue: 0,0:06:37.16,0:06:40.16,Default,,0,0,0,,{\an1\pos(64,432)}MM-HMM. MM-HMM.
+Dialogue: 0,0:06:40.50,0:06:43.16,Default,,0,0,0,,{\an1\pos(64,384)}MM-HMM. MM-HMM.\N\h\h\h\h\h\h\h\h\h\h\h\h
+Dialogue: 0,0:06:43.17,0:06:46.18,Default,,0,0,0,,{\an1\pos(136,432)}ATTENTION, ALL PERSONNEL,\NPLEASE KEEP WORKING...
+Dialogue: 0,0:06:46.17,0:06:48.17,Default,,0,0,0,,{\an1\pos(226,432)\i1}DURING THE FOLLOWING\NANNOUNCEMENT.{\i0}
+Dialogue: 0,0:06:48.17,0:06:51.67,Default,,0,0,0,,{\an1\pos(154,432)\i1}AND NOW OUR BOSS AND FRIEND\NMR. BURNS.{\i0}
+Dialogue: 0,0:06:51.68,0:06:54.19,Default,,0,0,0,,{\an1\pos(136,432)}HELLO.\NI'M PROUD TO ANNOUNCE...
+Dialogue: 0,0:06:54.18,0:06:57.18,Default,,0,0,0,,{\an1\pos(226,432)\i1}THAT WE'VE BEEN ABLE\NTO INCREASE SAFETY\NHERE AT THE PLANT...{\i0}
+Dialogue: 0,0:06:57.18,0:06:59.18,Default,,0,0,0,,{\an1\pos(136,432)}WITHOUT INCREASING THE COST\NTO THE CONSUMER...
+Dialogue: 0,0:06:59.18,0:07:01.68,Default,,0,0,0,,{\an1\pos(226,432)\i1}OR AFFECTING MANAGEMENT\NPAY RAISES.{\i0}
+Dialogue: 0,0:07:01.69,0:07:04.70,Default,,0,0,0,,{\an1\pos(136,432)}HOWEVER, FOR YOU\NSEMISKILLED WORKERS,
+Dialogue: 0,0:07:04.69,0:07:06.69,Default,,0,0,0,,{\an1\pos(136,432)}THERE WILL BE\NNO CHRISTMAS BONUSES.
+Dialogue: 0,0:07:06.69,0:07:10.19,Default,,0,0,0,,{\an1\pos(208,384)}\h{\i1}OH, AND ONE MORE THING.{\i0}
+Dialogue: 0,0:07:10.19,0:07:12.19,Default,,0,0,0,,{\an1\pos(208,432)}MERRY CHRISTMAS !
+Dialogue: 0,0:07:12.20,0:07:15.71,Default,,0,0,0,,{\an1\pos(136,408)}\h\h\h\h\h\h\h\h\h\h\h\h\NOH, THANK GOD\NFOR THE BIG JAR.
+Dialogue: 0,0:07:18.20,0:07:21.20,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\hWHERE'S THAT BART ?
+Dialogue: 0,0:07:21.21,0:07:24.18,Default,,0,0,0,,{\an1\pos(64,384)\i1}\h\h\h\h\h\h\h\h{\r\i0}
+Dialogue: 0,0:07:27.13,0:07:31.18,Default,,0,0,0,,{\an1\pos(136,432)}BUT, MOM,\NI THOUGHT YOU'D LIKE IT.
+Dialogue: 0,0:07:33.18,0:07:36.13,Default,,0,0,0,,{\an1\pos(64,432)}YES, MRS. SIMPSON,\NWE CAN REMOVE\NYOUR SON'S TATTOO.
+Dialogue: 0,0:07:36.14,0:07:38.65,Default,,0,0,0,,{\an1\pos(64,432)}IT'S A SIMPLE ROUTINE\NINVOLVING LASERS.
+Dialogue: 0,0:07:38.64,0:07:40.89,Default,,0,0,0,,{\an1\pos(136,432)}- COOL !\N- HOWEVER, IT IS\N\h\hRATHER EXPENSIVE,
+Dialogue: 0,0:07:40.89,0:07:43.69,Default,,0,0,0,,{\an1\pos(64,432)}AND WE MUST INSIST\NON A CASH PAYMENT UP FRONT.
+Dialogue: 0,0:07:43.70,0:07:45.70,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hCASH ?\N{\i1}MM-HMM.{\i0}
+Dialogue: 0,0:07:45.70,0:07:48.71,Default,,0,0,0,,{\an1\pos(208,432)}THANK GOD FOR\NHOMER'S CHRISTMAS BONUS.
+Dialogue: 0,0:07:50.70,0:07:54.20,Default,,0,0,0,,{\an1\pos(208,408)}\h{\i1}AY, CARAMBA !\N{\r}NOW, WHATEVER YOU DO,\NBOY, DON'T SQUIRM.{\i0}
+Dialogue: 0,0:07:54.21,0:07:58.17,Default,,0,0,0,,{\an1\pos(208,432)}YOU DON'T WANNA\NGET THIS SUCKER NEAR\NYOUR EYE OR YOUR GROIN.
+Dialogue: 0,0:08:00.24,0:08:04.16,Default,,0,0,0,,{\an1\pos(208,432)}OW ! QUIT IT.
+Dialogue: 0,0:08:04.17,0:08:06.14,Default,,0,0,0,,{\an1\pos(280,432)}OW ! QUIT IT.
+Dialogue: 0,0:08:06.13,0:08:08.13,Default,,0,0,0,,{\an1\pos(352,432)}OW ! QUIT IT.
+Dialogue: 0,0:08:08.14,0:08:10.51,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOW ! QUIT IT.\N{\i1}HEY, WHAT'S WITH THIS ?{\i0}
+Dialogue: 0,0:08:10.51,0:08:14.15,Default,,0,0,0,,{\an1\pos(280,432)}OW ! QUIT IT !\NUSED TO BE\NA REAL BOSS TATTOO.
+Dialogue: 0,0:08:14.14,0:08:17.64,Default,,0,0,0,,{\an1\pos(64,432)}BUT MOM HAD TO SPEND\NALL THE CHRISTMAS MONEY\NHAVING IT SURGICALLY REMOVED.
+Dialogue: 0,0:08:17.65,0:08:20.66,Default,,0,0,0,,{\an1\pos(496,432)}HUH ?
+Dialogue: 0,0:08:21.65,0:08:24.65,Default,,0,0,0,,{\an1\pos(208,432)}IT'S TRUE !
+Dialogue: 0,0:08:24.65,0:08:28.60,Default,,0,0,0,,{\an1\pos(136,432)}THE JAR IS EMPTY !\NOH, MY GOD !
+Dialogue: 0,0:08:28.61,0:08:30.62,Default,,0,0,0,,{\an1\pos(136,432)}WE'RE RUINED.\NCHRISTMAS IS CANCELED.
+Dialogue: 0,0:08:31.11,0:08:33.11,Default,,0,0,0,,{\an1\pos(136,432)}NO PRESENTS FOR ANYONE !
+Dialogue: 0,0:08:33.11,0:08:36.61,Default,,0,0,0,,{\an1\pos(136,432)}DON'T WORRY, HOMER.\NWE'LL JUST HAVE TO STRETCH\NYOUR CHRISTMAS BONUS...
+Dialogue: 0,0:08:36.61,0:08:39.11,Default,,0,0,0,,{\an1\pos(136,384)}EVEN FURTHER THIS YEAR.\N\h\h\h\h\h\h\h\h
+Dialogue: 0,0:08:39.12,0:08:42.63,Default,,0,0,0,,{\an1\pos(136,432)}- HOMER ?\N- OH, YEAH.\N\h\hMY CHRISTMAS BONUS.
+Dialogue: 0,0:08:42.62,0:08:45.12,Default,,0,0,0,,{\an1\pos(208,432)}HOW SILLY OF ME.
+Dialogue: 0,0:08:45.12,0:08:48.11,Default,,0,0,0,,{\an1\pos(208,432)}THIS'LL BE THE BEST\NCHRISTMAS YET.
+Dialogue: 0,0:08:48.11,0:08:50.11,Default,,0,0,0,,{\an1\pos(136,432)}THE BEST ANY FAMILY\NEVER HAD.
+Dialogue: 0,0:08:53.98,0:08:56.11,Default,,0,0,0,,{\an1\pos(64,432)\i1}HO HO HO.{\i0}
+Dialogue: 0,0:08:57.12,0:08:59.13,Default,,0,0,0,,{\an1\pos(64,432)\i1}HO HO HO.{\i0}
+Dialogue: 0,0:09:00.62,0:09:03.12,Default,,0,0,0,,{\an1\pos(64,432)\i1}HO HO HO.{\i0}
+Dialogue: 0,0:09:04.13,0:09:07.64,Default,,0,0,0,,{\an1\pos(208,432)}HO HO HO.
+Dialogue: 0,0:09:07.63,0:09:09.63,Default,,0,0,0,,{\an1\pos(442,432)\i1}HO HO HO.{\i0}
+Dialogue: 0,0:09:12.08,0:09:16.00,Default,,0,0,0,,{\an1\pos(208,432)}HMM. I GET THE FEELING\NTHERE'S SOMETHING YOU\NHAVEN'T TOLD ME, HOMER.
+Dialogue: 0,0:09:16.00,0:09:19.44,Default,,0,0,0,,{\an1\pos(64,432)}- HUH ? OH. I LOVE YOU, MARGE.\N- YOU TELL ME THAT ALL THE TIME.
+Dialogue: 0,0:09:19.44,0:09:21.91,Default,,0,0,0,,{\an1\pos(64,432)}OH, GOOD,\NBECAUSE I DO LOVE YOU.
+Dialogue: 0,0:09:21.91,0:09:24.84,Default,,0,0,0,,{\an1\pos(64,432)}I DON'T DESERVE YOU AS MUCH\NAS A GUY WITH A FAT WALLET...
+Dialogue: 0,0:09:24.85,0:09:27.81,Default,,0,0,0,,{\an1\pos(64,432)}AND A CREDIT CARD THAT WON'T\NSET OFF THAT HORRIBLE BEEPING.
+Dialogue: 0,0:09:27.80,0:09:31.23,Default,,0,0,0,,{\an1\pos(208,432)}I THINK IT DOES HAVE\NSOMETHING TO DO WITH\NYOUR CHRISTMAS BONUS.
+Dialogue: 0,0:09:31.24,0:09:33.21,Default,,0,0,0,,{\an1\pos(208,432)}I KEEP ASKING FOR IT,\NBUT--
+Dialogue: 0,0:09:33.20,0:09:36.64,Default,,0,0,0,,{\an1\pos(64,432)}MARGE, UM,\NLET ME BE HONEST WITH YOU.
+Dialogue: 0,0:09:36.64,0:09:41.04,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hYES ?\NWELL, I WOULD--
+Dialogue: 0,0:09:44.95,0:09:47.40,Default,,0,0,0,,{\an1\pos(136,432)}I-- I WANNA DO\NTHE CHRISTMAS SHOPPING\NTHIS YEAR.
+Dialogue: 0,0:09:47.40,0:09:50.35,Default,,0,0,0,,{\an1\pos(352,432)}UH, SURE, OKAY.
+Dialogue: 0,0:09:54.16,0:09:57.07,Default,,0,0,0,,{\an1\pos(64,432)\i1}MARGE, MARGE.\NHMM. LET'S SEE.{\i0}
+Dialogue: 0,0:09:57.08,0:09:59.54,Default,,0,0,0,,{\an1\pos(64,432)}OOH, LOOK !
+Dialogue: 0,0:09:59.53,0:10:02.96,Default,,0,0,0,,{\an1\pos(64,432)}PANTYHOSE.\NPRACTICAL AND ALLURING.
+Dialogue: 0,0:10:03.45,0:10:06.40,Default,,0,0,0,,{\an1\pos(64,432)}A SIX-PACK.\NOH ! ONLY 4.99.
+Dialogue: 0,0:10:06.40,0:10:08.85,Default,,0,0,0,,{\an1\pos(136,432)}OOH ! PADS OF PAPER.
+Dialogue: 0,0:10:08.86,0:10:11.82,Default,,0,0,0,,{\an1\pos(136,432)}I BET BART CAN THINK OF\NA MILLION THINGS TO DO\NWITH THESE.
+Dialogue: 0,0:10:12.29,0:10:15.73,Default,,0,0,0,,{\an1\pos(208,432)}THAT JUST LEAVES\NLITTLE MAGGIE.\NOH, LOOK !
+Dialogue: 0,0:10:15.73,0:10:17.70,Default,,0,0,0,,{\an1\pos(64,432)}A LITTLE SQUEAK TOY.
+Dialogue: 0,0:10:17.70,0:10:20.65,Default,,0,0,0,,{\an1\pos(64,432)}IT SAYS IT'S FOR DOGS,\NBUT SHE CAN'T READ.
+Dialogue: 0,0:10:21.62,0:10:24.75,Default,,0,0,0,,{\an1\pos(280,432)}OW ! OH, SIMPSON,\NIT'S YOU.
+Dialogue: 0,0:10:24.76,0:10:28.50,Default,,0,0,0,,{\an1\pos(64,408)}HELLO, FLANDERS.\N\h\h\h\hOH, MY ! WHAT A LITTLE MESS\N\h\h\h\hWE'VE GOT HERE.
+Dialogue: 0,0:10:28.49,0:10:30.94,Default,,0,0,0,,{\an1\pos(136,432)}WELL, WHICH ONES ARE YOURS\NAND WHICH ONES ARE MINE ?
+Dialogue: 0,0:10:30.95,0:10:34.19,Default,,0,0,0,,{\an1\pos(64,408)}WELL, LET'S SEE.\N\h\h\h\h\h\h\h\h\h\h\h\hOH, THIS ONE'S MINE.\N\h\h\h\h\h\h\h\h\h\h\h\hTHIS ONE'S MINE.
+Dialogue: 0,0:10:34.18,0:10:36.85,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hTHIS ONE'S MINE,\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hAND THIS--\NTHEY'RE ALL YOURS !
+Dialogue: 0,0:10:36.85,0:10:39.78,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\hHEY, MR. SIMPSON,\N\h\h\h\hYOU DROPPED YOUR PORK CHOP.
+Dialogue: 0,0:10:39.79,0:10:43.73,Default,,0,0,0,,{\an1\pos(136,432)}- GIMME THAT !\N- WELL, HAPPY HOLIDAYS,\N\h\hSIMPSON.
+Dialogue: 0,0:10:43.72,0:10:48.14,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\hGEE, DAD, THIS IS GONNA BE\N\h\h\h\hTHE BEST CHRISTMAS EVER.\N{\i1}YOU BET.{\i0}
+Dialogue: 0,0:10:57.97,0:11:01.91,Default,,0,0,0,,{\an1\pos(64,432)}WHAT'S THE MATTER, HOMER ?\NSOMEBODY LEAVE A LUMP OF COAL\NIN YOUR STOCKING ?
+Dialogue: 0,0:11:01.91,0:11:04.36,Default,,0,0,0,,{\an1\pos(64,432)}YOU'VE BEEN SITTING THERE,\NSUCKING ON A BEER\NALL DAY LONG.
+Dialogue: 0,0:11:04.36,0:11:06.81,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSO ?\NSO, IT'S CHRISTMAS.
+Dialogue: 0,0:11:06.81,0:11:10.25,Default,,0,0,0,,{\an1\pos(64,384)\i1}♪ \h\h\h\h\h\h\h\h\h\h\h\h{\r}THANKS, MOE.{\i0}
+Dialogue: 0,0:11:10.25,0:11:12.68,Default,,0,0,0,,{\an1\pos(280,432)}DRINKS ALL AROUND !
+Dialogue: 0,0:11:12.69,0:11:14.65,Default,,0,0,0,,{\an1\pos(136,432)}WHAT'S WITH\NTHE CRAZY GETUP, BARN ?
+Dialogue: 0,0:11:14.64,0:11:19.06,Default,,0,0,0,,{\an1\pos(64,432)}I GOT ME A PART-TIME JOB\NWORKING AS A SANTA\NDOWN AT THE MALL.
+Dialogue: 0,0:11:19.14,0:11:20.99,Default,,0,0,0,,{\an1\pos(208,432)}WOW ! CAN I DO THAT ?
+Dialogue: 0,0:11:21.00,0:11:23.94,Default,,0,0,0,,{\an1\pos(64,432)}- I DON'T KNOW.\N- THEY'RE PRETTY SELECTIVE.
+Dialogue: 0,0:11:23.93,0:11:25.90,Default,,0,0,0,,{\an1\pos(64,432)}DO YOU LIKE CHILDREN ?
+Dialogue: 0,0:11:25.90,0:11:29.33,Default,,0,0,0,,{\an1\pos(208,432)}WHAT DO YOU MEAN ?\NALL THE TIME ?\NEVEN WHEN THEY'RE NUTS ?
+Dialogue: 0,0:11:29.34,0:11:32.78,Default,,0,0,0,,{\an1\pos(136,432)}- HMM.\N- UH, I CERTAINLY DO.
+Dialogue: 0,0:11:32.77,0:11:34.57,Default,,0,0,0,,{\an1\pos(64,432)}WELCOME ABOARD, SIMPSON.
+Dialogue: 0,0:11:34.58,0:11:37.70,Default,,0,0,0,,{\an1\pos(64,432)}PENDING YOUR SUCCESSFUL\NCOMPLETION OF OUR\NTRAINING PROGRAM, THAT IS.
+Dialogue: 0,0:11:37.70,0:11:41.14,Default,,0,0,0,,{\an1\pos(136,432)}HO HO HO. HO HO HO.
+Dialogue: 0,0:11:41.13,0:11:44.08,Default,,0,0,0,,{\an1\pos(136,408)}HO HO HO. HO HO HO.
+Dialogue: 0,0:11:44.09,0:11:47.03,Default,,0,0,0,,{\an1\pos(136,432)}- WHAT IS IT NOW, SIMPSON ?\N- UH, WHEN DO WE GET PAID ?
+Dialogue: 0,0:11:47.02,0:11:50.92,Default,,0,0,0,,{\an1\pos(208,432)}NOT A DIME TILL\NCHRISTMAS EVE !\NNOW, FROM THE TOP.
+Dialogue: 0,0:11:50.93,0:11:54.87,Default,,0,0,0,,{\an1\pos(136,432)}HO HO HO. HO HO HO.
+Dialogue: 0,0:11:54.86,0:11:57.81,Default,,0,0,0,,{\an1\pos(280,432)}UM, DASHER.
+Dialogue: 0,0:11:57.82,0:12:00.27,Default,,0,0,0,,{\an1\pos(136,384)}\h\h\h\h\h\h\h\h\h\h\h\hDANCER.\NMM-HMM.
+Dialogue: 0,0:12:00.27,0:12:02.74,Default,,0,0,0,,{\an1\pos(154,384)}\h\h\h\h\h\h\h\h\h\h\hPRANCER.\NMM-HMM.
+Dialogue: 0,0:12:02.74,0:12:04.70,Default,,0,0,0,,{\an1\pos(352,432)}NIXON.
+Dialogue: 0,0:12:04.69,0:12:08.14,Default,,0,0,0,,{\an1\pos(280,432)}COMET AND... CUPID.
+Dialogue: 0,0:12:08.14,0:12:09.94,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\hDONNA DIXON ?\NSIT DOWN, SIMPSON.
+Dialogue: 0,0:12:09.94,0:12:12.06,Default,,0,0,0,,{\an1\pos(64,432)}AND WHAT WOULD YOU LIKE,\NLITTLE BOY ?
+Dialogue: 0,0:12:12.06,0:12:14.45,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\hYOU'RE NOT REALLY SANTA,\N\h\h\h\hTUBBY.\NWHY, YOU LITTLE EGGHEAD !
+Dialogue: 0,0:12:14.45,0:12:16.98,Default,,0,0,0,,{\an1\pos(208,432)}NO, HOMER ! IF SUCH\NAN EMERGENCY ARISES,
+Dialogue: 0,0:12:17.47,0:12:19.92,Default,,0,0,0,,{\an1\pos(208,432)}YOU JUST TELL THEM\NSANTA'S VERY BUSY\NTHIS TIME OF YEAR,
+Dialogue: 0,0:12:19.92,0:12:23.85,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\hAND YOU ARE\N\h\h\h\h\h\h\h\hONE OF HIS HELPERS.\NOH, I KNEW THAT ONE TOO !
+Dialogue: 0,0:12:26.81,0:12:29.26,Default,,0,0,0,,{\an1\pos(298,432)\i1}HOMER, WHY ARE YOU\NSEVEN HOURS LATE ?{\i0}
+Dialogue: 0,0:12:29.26,0:12:32.21,Default,,0,0,0,,{\an1\pos(208,432)}NOT A WORD, MARGE.\NI'M HEADING\NSTRAIGHT FOR THE TUB.
+Dialogue: 0,0:12:32.22,0:12:34.18,Default,,0,0,0,,{\an1\pos(136,432)}BUT, HOMER,\NMY SISTERS ARE HERE.
+Dialogue: 0,0:12:34.17,0:12:36.63,Default,,0,0,0,,{\an1\pos(136,408)}\h\h\h\h\h\h\h\h\h\h\h\h\h{\i1}DON'T YOU WANNA\N\h\h\h\h\h\h\h\h\h\h\h\h\hSAY HELLO ?{\i0}
+Dialogue: 0,0:12:39.09,0:12:41.54,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\hDADDY ! DADDY !\N\h\h\h\hWE'RE SO GLAD TO SEE YOU !\NOH, DAD, YOU'RE FINALLY HOME !
+Dialogue: 0,0:12:41.54,0:12:45.43,Default,,0,0,0,,{\an1\pos(280,432)}WHAT ? WHY ?\NOH, YEAH.
+Dialogue: 0,0:12:45.43,0:12:47.88,Default,,0,0,0,,{\an1\pos(352,432)}HELLO, PATTY.\N\hHELLO, SELMA.
+Dialogue: 0,0:12:47.88,0:12:50.33,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\hHOW WAS YOUR TRIP ?\NFINE.
+Dialogue: 0,0:12:50.33,0:12:52.80,Default,,0,0,0,,{\an1\pos(136,432)}- YOU BOTH LOOK WELL.\N- THANK YOU.
+Dialogue: 0,0:12:52.80,0:12:55.74,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h\h\h\h\h\h{\i1}YEAH, WELL,\N\h\h\h\h\h\h\h\h\h\h\h\h\hMERRY CHRISTMAS.\N{\r}IT'S CHRISTMAS ?{\i0}
+Dialogue: 0,0:12:55.74,0:12:58.69,Default,,0,0,0,,{\an1\pos(136,408)}YOU WOULDN'T KNOW IT\NAROUND HERE.\N\h\h\h\h\h\h\h\hAND WHY IS THAT ?
+Dialogue: 0,0:12:58.69,0:13:03.11,Default,,0,0,0,,{\an1\pos(64,432)}- FOR ONE THING, THERE'S NO TREE\N- WELL, I WAS JUST ON MY WAY OUT\N\h\hTO GET ONE !
+Dialogue: 0,0:13:03.11,0:13:04.63,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\hCAN WE GO TOO, DAD ?\NYEAH, CAN WE ?
+Dialogue: 0,0:13:04.63,0:13:06.06,Default,,0,0,0,,{\an1\pos(352,432)}NO !
+Dialogue: 0,0:13:06.07,0:13:08.49,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ SLEIGH BELLS RING ♪{\i0}
+Dialogue: 0,0:13:08.49,0:13:11.45,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ ARE YOU LISTENING ♪{\i0}
+Dialogue: 0,0:13:11.44,0:13:13.89,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ IN THE LANE ♪{\i0}
+Dialogue: 0,0:13:14.38,0:13:16.85,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ SNOW IS GLISTENING ♪{\i0}
+Dialogue: 0,0:13:16.84,0:13:20.28,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ A BEAUTIFUL SIGHT ♪{\i0}
+Dialogue: 0,0:13:20.28,0:13:23.23,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ WE'RE HAPPY TONIGHT ♪{\i0}
+Dialogue: 0,0:13:23.23,0:13:26.67,Default,,0,0,0,,{\an1\pos(64,408)\i1}♪ WALKING IN\N\h\hA WINTER WONDERLAND ♪{\i0}
+Dialogue: 0,0:13:29.12,0:13:31.56,Default,,0,0,0,,{\an1\pos(226,432)\i1}HEY, YOU ! WHAT DO YOU\NTHINK YOU'RE DOIN' ?{\i0}
+Dialogue: 0,0:13:31.56,0:13:33.49,Default,,0,0,0,,{\an1\pos(64,384)}UH-OH.\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\i1}HEY ! HEY !{\i0}
+Dialogue: 0,0:13:33.49,0:13:35.94,Default,,0,0,0,,{\an1\pos(154,384)}\h\h\h\h\h\h\h\h{\i1}COME BACK HERE !{\i0}
+Dialogue: 0,0:13:38.38,0:13:41.82,Default,,0,0,0,,{\an1\pos(136,432)}SO WHAT DO YOU THINK, KIDS ?\NBEAUTY, ISN'T IT ?
+Dialogue: 0,0:13:41.82,0:13:44.75,Default,,0,0,0,,{\an1\pos(136,384)}WOW ! YAY, DAD !\N\h\h\h\hWAY TO GO, DAD !
+Dialogue: 0,0:13:44.76,0:13:48.40,Default,,0,0,0,,{\an1\pos(136,432)}- WHY IS THERE\N\h\hA BIRDHOUSE IN IT ?\N- UH, THAT'S AN ORNAMENT.
+Dialogue: 0,0:13:48.39,0:13:50.86,Default,,0,0,0,,{\an1\pos(208,432)}DO I SMELL GUNPOWDER ?
+Dialogue: 0,0:13:50.86,0:13:53.61,Default,,0,0,0,,{\an1\pos(370,432)\i1}AND THEN I WANT\NSOME ROBOTOIDS.{\i0}
+Dialogue: 0,0:13:53.61,0:13:56.26,Default,,0,0,0,,{\an1\pos(64,432)}AND THEN I WANT\NA GOOP MONSTER.
+Dialogue: 0,0:13:56.27,0:13:58.23,Default,,0,0,0,,{\an1\pos(64,432)}AND THEN I WANT\NA GREAT BIG, GIANT--
+Dialogue: 0,0:13:58.22,0:14:00.18,Default,,0,0,0,,{\an1\pos(208,432)}AW, SON, YOU DON'T NEED\NALL THAT JUNK.
+Dialogue: 0,0:14:00.19,0:14:03.15,Default,,0,0,0,,{\an1\pos(208,432)}I'M SURE YOU'VE ALREADY\NGOT SOMETHING\NMUCH MORE IMPORTANT--
+Dialogue: 0,0:14:03.62,0:14:08.04,Default,,0,0,0,,{\an1\pos(136,432)}A DECENT HOME AND\NA LOVING FATHER WHO\NWOULD DO ANYTHING FOR YOU.
+Dialogue: 0,0:14:08.05,0:14:10.57,Default,,0,0,0,,{\an1\pos(64,432)}HEY, I COULDN'T AFFORD LUNCH.\NGIVE ME A BITE OF THAT DONUT.
+Dialogue: 0,0:14:13.42,0:14:15.79,Default,,0,0,0,,{\an1\pos(208,432)}GET A LOAD OF THAT\NQUOTE-UNQUOTE SANTA.
+Dialogue: 0,0:14:15.79,0:14:17.75,Default,,0,0,0,,{\an1\pos(64,432)}I CAN'T BELIEVE THOSE KIDS\NARE FALLING FOR IT.
+Dialogue: 0,0:14:17.74,0:14:20.20,Default,,0,0,0,,{\an1\pos(136,432)}HEY, MILHOUSE, I DARE YOU\NTO SIT ON HIS LAP.
+Dialogue: 0,0:14:20.21,0:14:24.64,Default,,0,0,0,,{\an1\pos(64,432)}- OH, YEAH ? WELL, I DARE YOU\N\h\hTO YANK HIS BEARD OFF.\N- AH, TOUCHE.
+Dialogue: 0,0:14:24.63,0:14:26.59,Default,,0,0,0,,{\an1\pos(208,432)}I HOPE YOU FEEL BETTER,\NSANTA.
+Dialogue: 0,0:14:26.60,0:14:29.06,Default,,0,0,0,,{\an1\pos(136,432)}OH, I WILL WHEN\NMRS. CLAUS' SISTERS\NGET OUTTA TOWN.
+Dialogue: 0,0:14:29.53,0:14:31.50,Default,,0,0,0,,{\an1\pos(136,432)}THANKS FOR LISTENIN', KID.
+Dialogue: 0,0:14:33.47,0:14:35.44,Default,,0,0,0,,{\an1\pos(64,432)}HEY, SANTA,\NWHAT'S SHAKIN', MAN ?
+Dialogue: 0,0:14:35.44,0:14:39.36,Default,,0,0,0,,{\an1\pos(280,432)}WHAT'S YOUR NAME,\NBART... NER ?\NUH, LITTLE PARTNER ?
+Dialogue: 0,0:14:39.36,0:14:42.31,Default,,0,0,0,,{\an1\pos(136,432)}- I'M BART SIMPSON.\N\h\hWHO THE HELL ARE YOU ?\N- I'M JOLLY OLD ST. NICK.
+Dialogue: 0,0:14:42.31,0:14:44.76,Default,,0,0,0,,{\an1\pos(64,432)}OH, YEAH ?\NWE'LL JUST SEE ABOUT THAT.
+Dialogue: 0,0:14:44.77,0:14:47.69,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h{\i1}D'OH !{\i0}
+Dialogue: 0,0:14:47.69,0:14:51.63,Default,,0,0,0,,{\an1\pos(64,408)}HOMER !\N\h\h\h\h\h\h\h\hI WANT A WORD WITH YOU\N\h\h\h\h\h\h\h\hIN SANTA'S WORKSHOP.
+Dialogue: 0,0:14:51.62,0:14:55.06,Default,,0,0,0,,{\an1\pos(136,432)}- COVER FOR ME, ELFIE.\N- DON'T KILL ME, DAD.\N\h\hI DIDN'T KNOW IT WAS YOU.
+Dialogue: 0,0:14:55.06,0:14:57.02,Default,,0,0,0,,{\an1\pos(352,432)}NOBODY KNOWS.\NIT'S A SECRET.
+Dialogue: 0,0:14:57.03,0:14:58.99,Default,,0,0,0,,{\an1\pos(208,432)}I DIDN'T GET MY BONUS\NTHIS YEAR.
+Dialogue: 0,0:14:58.98,0:15:01.45,Default,,0,0,0,,{\an1\pos(208,432)}BUT TO KEEP THE FAMILY\NFROM MISSING OUT\NON CHRISTMAS,
+Dialogue: 0,0:15:01.45,0:15:03.40,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hI'D DO ANYTHING.\NI'LL SAY, DAD.
+Dialogue: 0,0:15:03.40,0:15:06.73,Default,,0,0,0,,{\an1\pos(64,432)}YOU MUST REALLY LOVE US\NTO SINK SO LOW.
+Dialogue: 0,0:15:07.76,0:15:09.73,Default,,0,0,0,,{\an1\pos(208,432)}NOW, LET'S NOT\NGET MUSHY, SON.
+Dialogue: 0,0:15:09.72,0:15:11.69,Default,,0,0,0,,{\an1\pos(136,432)}I STILL HAVE A JOB TO DO.
+Dialogue: 0,0:15:11.69,0:15:14.12,Default,,0,0,0,,{\an1\pos(208,432)}HEY, LITTLE ONES.\NSANTA'S BACK.
+Dialogue: 0,0:15:14.13,0:15:15.87,Default,,0,0,0,,{\an1\pos(208,432)}HO HO-- D'OH !
+Dialogue: 0,0:15:15.86,0:15:19.01,Default,,0,0,0,,{\an1\pos(280,432)}DAMN IT TO--
+Dialogue: 0,0:15:19.02,0:15:21.14,Default,,0,0,0,,{\an1\pos(226,432)\i1}AH, SON, ONE DAY\NYOU'RE GONNA KNOW...{\i0}
+Dialogue: 0,0:15:21.45,0:15:23.42,Default,,0,0,0,,{\an1\pos(136,432)}THE SATISFACTION OF PAYDAY.
+Dialogue: 0,0:15:23.42,0:15:26.49,Default,,0,0,0,,{\an1\pos(136,432)}RECEIVING A BIG FAT CHECK\NFOR A JOB WELL DONE.
+Dialogue: 0,0:15:26.49,0:15:28.82,Default,,0,0,0,,{\an1\pos(64,432)}SIMPSON, HOMER ?\NHERE YA GO.
+Dialogue: 0,0:15:28.83,0:15:33.25,Default,,0,0,0,,{\an1\pos(208,432)}COME ON, SON.\NLET'S GO CASH THIS BABY\NAND GET PRESENTS FOR--
+Dialogue: 0,0:15:33.25,0:15:36.21,Default,,0,0,0,,{\an1\pos(280,432)}THIRTEEN BUCKS ?\NHEY, WAIT A MINUTE.
+Dialogue: 0,0:15:36.20,0:15:38.15,Default,,0,0,0,,{\an1\pos(64,432)}THAT'S RIGHT.\N$120 GROSS.
+Dialogue: 0,0:15:38.15,0:15:40.12,Default,,0,0,0,,{\an1\pos(64,432)}LESS SOCIAL SECURITY,\N\hLESS UNEMPLOYMENT INSURANCE,
+Dialogue: 0,0:15:40.12,0:15:42.09,Default,,0,0,0,,{\an1\pos(136,432)}- LESS SANTA TRAINING...\N- SANTA TRAINING ?
+Dialogue: 0,0:15:42.09,0:15:44.05,Default,,0,0,0,,{\an1\pos(64,432)}LESS COSTUME PURCHASE,\NLESS BEARD RENTAL,\NLESS CHRISTMAS CLUB.
+Dialogue: 0,0:15:44.06,0:15:46.47,Default,,0,0,0,,{\an1\pos(136,432)}- BUT-- BUT--\N- SEE YA NEXT YEAR.
+Dialogue: 0,0:15:46.46,0:15:49.41,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOHH !\NCOME ON, DAD.\NLET'S GO HOME.
+Dialogue: 0,0:15:49.90,0:15:51.39,Default,,0,0,0,,{\an1\pos(280,432)}THIRTEEN BUCKS ?
+Dialogue: 0,0:15:51.38,0:15:53.83,Default,,0,0,0,,{\an1\pos(208,432)}YOU CAN'T GET ANYTHING\NFOR 13 BUCKS.
+Dialogue: 0,0:15:53.83,0:15:57.27,Default,,0,0,0,,{\an1\pos(64,432)\i1}ALL RIGHT !\NTHIRTEEN BIG ONES !{\i0}
+Dialogue: 0,0:15:57.27,0:15:59.24,Default,,0,0,0,,{\an1\pos(64,432)}SPRINGFIELD DOWNS,\NHERE I COME !
+Dialogue: 0,0:15:59.24,0:16:01.69,Default,,0,0,0,,{\an1\pos(208,432)}- WHAT ?\N- YOU HEARD ME.
+Dialogue: 0,0:16:01.69,0:16:03.66,Default,,0,0,0,,{\an1\pos(136,432)}I'M GOIN' TO THE DOG TRACK.
+Dialogue: 0,0:16:03.66,0:16:05.63,Default,,0,0,0,,{\an1\pos(136,432)}I GOT A HOT LITTLE PUPPY\NIN THE FOURTH RACE.
+Dialogue: 0,0:16:05.63,0:16:07.59,Default,,0,0,0,,{\an1\pos(64,384)}WANNA COME ?\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSORRY, BARNEY.
+Dialogue: 0,0:16:07.60,0:16:11.04,Default,,0,0,0,,{\an1\pos(208,432)}I MAY BE A TOTAL WASHOUT\NAS A FATHER, BUT I'M\NNOT GONNA TAKE MY KID...
+Dialogue: 0,0:16:11.04,0:16:13.46,Default,,0,0,0,,{\an1\pos(226,432)\i1}TO A SLEAZY DOG TRACK\NON CHRISTMAS EVE.{\i0}
+Dialogue: 0,0:16:13.45,0:16:17.39,Default,,0,0,0,,{\an1\pos(136,432)}COME ON, SIMPSON.\NTHE DOG'S NAME IS WHIRLWIND.
+Dialogue: 0,0:16:17.39,0:16:19.79,Default,,0,0,0,,{\an1\pos(64,432)}TEN-TO-ONE SHOT.\NMONEY IN THE BANK.
+Dialogue: 0,0:16:19.79,0:16:21.76,Default,,0,0,0,,{\an1\pos(136,432)}- UH-UH.\N- AH, COME ON, DAD.
+Dialogue: 0,0:16:21.76,0:16:24.70,Default,,0,0,0,,{\an1\pos(64,432)}THIS CAN BE\NTHE MIRACLE THAT SAVES\NTHE SIMPSONS' CHRISTMAS.
+Dialogue: 0,0:16:24.70,0:16:26.63,Default,,0,0,0,,{\an1\pos(64,432)}IF TV HAS TAUGHT ME ANYTHING,
+Dialogue: 0,0:16:26.63,0:16:29.58,Default,,0,0,0,,{\an1\pos(64,432)}IT'S THAT MIRACLES\NALWAYS HAPPEN TO POOR KIDS\NAT CHRISTMAS.
+Dialogue: 0,0:16:29.59,0:16:33.51,Default,,0,0,0,,{\an1\pos(64,432)}IT HAPPENED TO TINY TIM,\NIT HAPPENED TO CHARLIE BROWN,\NIT HAPPENED TO THE SMURFS,
+Dialogue: 0,0:16:33.51,0:16:35.48,Default,,0,0,0,,{\an1\pos(64,432)}AND IT'S GONNA HAPPEN\NTO US.
+Dialogue: 0,0:16:37.44,0:16:40.88,Default,,0,0,0,,{\an1\pos(208,432)}WELL, OKAY, LET'S GO.\NWHO'S TINY TIM ?
+Dialogue: 0,0:16:42.25,0:16:44.06,Default,,0,0,0,,{\an1\pos(64,432)\i1}HEY, MOLDY, DO YOU THINK\NSANTA WILL BE ABLE TO FIND...{\i0}
+Dialogue: 0,0:16:44.07,0:16:46.53,Default,,0,0,0,,{\an1\pos(208,432)}ELF COUNTY\NUNDER ALL THIS SNOW ?
+Dialogue: 0,0:16:46.52,0:16:51.42,Default,,0,0,0,,{\an1\pos(64,432)}I DOUBT IT, BUBBLES.\NWE'LL BE SAD LITTLE ELVES\NTHIS CHRISTMAS.
+Dialogue: 0,0:16:51.43,0:16:53.38,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hOH, NO!\NOH, BROTHER.
+Dialogue: 0,0:16:53.73,0:16:55.84,Default,,0,0,0,,{\an1\pos(64,408)}WHERE'S YOUR HUSBAND ?\N\h\h\h\h\h\h\h\h\h\h\h\hYEAH.\N\h\h\h\h\h\h\h\h\h\h\h\hIT'S GETTING LATE.
+Dialogue: 0,0:16:55.83,0:16:58.28,Default,,0,0,0,,{\an1\pos(64,432)}SAID HE WENT CAROLING\NWITH BART.
+Dialogue: 0,0:16:58.28,0:17:02.22,Default,,0,0,0,,{\an1\pos(64,432)\i1}♪ WE'RE IN THE MONEY\N\h\hWE'RE IN THE MONEY ♪{\i0}
+Dialogue: 0,0:17:02.22,0:17:05.65,Default,,0,0,0,,{\an1\pos(280,432)}♪ WE GOT A LOT OF\N\h\hWHAT IT TAKES\N\h\hTO GET ALONG ♪
+Dialogue: 0,0:17:05.66,0:17:07.63,Default,,0,0,0,,{\an1\pos(64,432)}I CAN'T BELIEVE\NI'M DOING THIS.
+Dialogue: 0,0:17:07.63,0:17:11.07,Default,,0,0,0,,{\an1\pos(64,432)}CAN WE OPEN\NOUR PRESENTS NOW, DAD ?
+Dialogue: 0,0:17:11.06,0:17:14.01,Default,,0,0,0,,{\an1\pos(136,432)}YOU KNOW THE TRADITION, SON.\NNOT TILL THE EIGHTH RACE.
+Dialogue: 0,0:17:14.01,0:17:16.46,Default,,0,0,0,,{\an1\pos(136,432)}HEY, BARNEY,\NWHICH ONE IS WHIRLWIND ?
+Dialogue: 0,0:17:16.47,0:17:20.39,Default,,0,0,0,,{\an1\pos(280,432)}NUMBER SIX.\NTHAT'S OUR LUCKY DOG\NRIGHT OVER THERE.
+Dialogue: 0,0:17:20.39,0:17:22.86,Default,,0,0,0,,{\an1\pos(226,432)\i1}HE'S WON\NHIS LAST FIVE RACES.{\i0}
+Dialogue: 0,0:17:22.86,0:17:25.32,Default,,0,0,0,,{\an1\pos(64,432)}WHAT ? THAT SCRAWNY LITTLE\NBAG OF BONES ?
+Dialogue: 0,0:17:25.31,0:17:28.26,Default,,0,0,0,,{\an1\pos(136,432)}COME ON, DAD.\NTHEY'RE ALL SCRAWNY LITTLE\NBAGS OF BONES.
+Dialogue: 0,0:17:28.26,0:17:30.71,Default,,0,0,0,,{\an1\pos(64,432)}YEAH, YOU'RE RIGHT.
+Dialogue: 0,0:17:30.71,0:17:34.15,Default,,0,0,0,,{\an1\pos(64,432)}I GUESS WHIRLWIND\NIS OUR ONLY HOPE\NFOR A MERRY CHRISTMAS.
+Dialogue: 0,0:17:34.15,0:17:36.60,Default,,0,0,0,,{\an1\pos(64,432)\i1}ATTENTION, RACING FANS,\NWE HAVE A LATE SCRATCH...{\i0}
+Dialogue: 0,0:17:36.60,0:17:38.57,Default,,0,0,0,,{\an1\pos(64,432)}IN THE FOURTH RACE.
+Dialogue: 0,0:17:38.57,0:17:41.52,Default,,0,0,0,,{\an1\pos(64,432)}NUMBER 8, SIR GALAHAD\NWILL BE REPLACED BY\NSANTA'S LITTLE HELPER.
+Dialogue: 0,0:17:41.53,0:17:45.45,Default,,0,0,0,,{\an1\pos(64,432)}ONCE AGAIN, SIR GALAHAD\NHAS BEEN REPLACED BY\NSANTA'S LITTLE HELPER.
+Dialogue: 0,0:17:45.95,0:17:47.92,Default,,0,0,0,,{\an1\pos(64,432)}BART, DID YOU HEAR THAT ?
+Dialogue: 0,0:17:47.92,0:17:49.87,Default,,0,0,0,,{\an1\pos(64,432)}WHAT A NAME !\NSANTA'S LITTLE HELPER !
+Dialogue: 0,0:17:49.87,0:17:53.79,Default,,0,0,0,,{\an1\pos(64,408)}IT'S A SIGN !\N\hIT'S AN OMEN !\N\h\h\h\h\h\h\h\hIT'S A COINCIDENCE, DAD.
+Dialogue: 0,0:17:53.79,0:17:56.73,Default,,0,0,0,,{\an1\pos(136,432)}- WHAT ARE THE ODDS\N\h\hON SANTA'S LITTLE HELPER ?\N- NINETY-NINE TO ONE.
+Dialogue: 0,0:17:56.72,0:18:02.44,Default,,0,0,0,,{\an1\pos(208,432)}WOW ! NINETY-NINE\NTIMES THIRTEEN EQUALS...\NMERRY CHRISTMAS !
+Dialogue: 0,0:18:02.45,0:18:04.59,Default,,0,0,0,,{\an1\pos(208,432)}I GOT A BAD FEELING\NABOUT THIS.
+Dialogue: 0,0:18:04.58,0:18:06.55,Default,,0,0,0,,{\an1\pos(64,408)}DON'T YOU\NBELIEVE IN ME, SON ?\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hUH--
+Dialogue: 0,0:18:06.55,0:18:09.50,Default,,0,0,0,,{\an1\pos(64,432)}COME ON, BOY.\NSOMETIMES YOUR FAITH\NIS ALL THAT KEEPS ME GOING.
+Dialogue: 0,0:18:11.96,0:18:14.41,Default,,0,0,0,,{\an1\pos(280,432)}OH, GO FOR IT, DAD.
+Dialogue: 0,0:18:14.41,0:18:18.35,Default,,0,0,0,,{\an1\pos(136,432)}THAT'S MY BOY !\NEVERYTHING ON\NSANTA'S LITTLE HELPER.
+Dialogue: 0,0:18:18.55,0:18:20.80,Default,,0,0,0,,{\an1\pos(136,432)}THREE CHEERS FOR BRAINY !
+Dialogue: 0,0:18:20.80,0:18:23.26,Default,,0,0,0,,{\an1\pos(208,432)}- HIP HIP HOORAY !\N- YAY !
+Dialogue: 0,0:18:23.25,0:18:25.22,Default,,0,0,0,,{\an1\pos(64,432)}UNADULTERATED PAP.
+Dialogue: 0,0:18:25.22,0:18:28.17,Default,,0,0,0,,{\an1\pos(136,384)}\h\h\h\h\h\h\h\hIT'S ALMOST 9:00.\NWHERE'S HOMER ANYWAY ?
+Dialogue: 0,0:18:28.17,0:18:31.11,Default,,0,0,0,,{\an1\pos(280,432)}IT'S SO TYPICAL\NOF THE BIG DOOFUS\NTO SPOIL IT ALL.
+Dialogue: 0,0:18:31.11,0:18:33.57,Default,,0,0,0,,{\an1\pos(136,432)}- WHAT, AUNT PATTY ?\N- OH, NOTHING, DEAR.
+Dialogue: 0,0:18:33.58,0:18:35.54,Default,,0,0,0,,{\an1\pos(280,432)}I'M JUST TRASHING\NYOUR FATHER.
+Dialogue: 0,0:18:35.53,0:18:37.46,Default,,0,0,0,,{\an1\pos(136,432)}WELL, I WISH YOU WOULDN'T...
+Dialogue: 0,0:18:37.46,0:18:41.88,Default,,0,0,0,,{\an1\pos(64,432)}BECAUSE ASIDE FROM THE FACT\NTHAT HE HAS THE SAME FRAILTIES\NAS ALL HUMAN BEINGS,
+Dialogue: 0,0:18:41.89,0:18:43.86,Default,,0,0,0,,{\an1\pos(136,432)}HE'S THE ONLY FATHER I HAVE.
+Dialogue: 0,0:18:43.85,0:18:46.80,Default,,0,0,0,,{\an1\pos(136,432)}THEREFORE, HE IS\NMY MODEL OF MANHOOD,
+Dialogue: 0,0:18:46.81,0:18:51.24,Default,,0,0,0,,{\an1\pos(136,432)}AND MY ESTIMATION OF HIM\NWILL GOVERN THE PROSPECTS\NOF MY ADULT RELATIONSHIPS.
+Dialogue: 0,0:18:51.23,0:18:54.66,Default,,0,0,0,,{\an1\pos(136,432)}SO I HOPE YOU BEAR IN MIND\NTHAT ANY KNOCK AT HIM\NIS A KNOCK AT ME,
+Dialogue: 0,0:18:55.15,0:18:59.08,Default,,0,0,0,,{\an1\pos(136,432)}AND I'M FAR TOO YOUNG\NTO DEFEND MYSELF\NAGAINST SUCH ONSLAUGHTS.
+Dialogue: 0,0:19:00.55,0:19:03.50,Default,,0,0,0,,{\an1\pos(208,432)}MM-HMM. GO WATCH\NYOUR CARTOON SHOW, DEAR.
+Dialogue: 0,0:19:03.51,0:19:05.48,Default,,0,0,0,,{\an1\pos(352,432)}COME ON, BART.
+Dialogue: 0,0:19:05.48,0:19:08.42,Default,,0,0,0,,{\an1\pos(280,432)}KISS THE TICKET\NFOR GOOD LUCK,\NNOT THAT WE NEED IT.
+Dialogue: 0,0:19:11.85,0:19:14.26,Default,,0,0,0,,{\an1\pos(64,432)\i1}HERE COMES SCREWY\NTHE MECHANICAL RABBIT.{\i0}
+Dialogue: 0,0:19:14.27,0:19:15.74,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\h\h{\i1}\NAND THEY'RE OFF !{\i0}
+Dialogue: 0,0:19:15.74,0:19:19.18,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\hCOME ON,\N\h\h\h\h\h\h\h\hSANTA'S LITTLE HELPER !\NCOME ON, DOG ! GO, MAN, GO !
+Dialogue: 0,0:19:19.17,0:19:22.12,Default,,0,0,0,,{\an1\pos(64,432)\i1}IT'S WHIRLWIND IN THE LANE,\NAND COMING UP ON THE LEFT\NIS QUADRUPED,{\i0}
+Dialogue: 0,0:19:22.13,0:19:24.59,Default,,0,0,0,,{\an1\pos(64,432)\i1}FOLLOWED BY DOG O'WAR\NAND FIDO.{\i0}
+Dialogue: 0,0:19:24.58,0:19:27.53,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h\h\h\h\hGO ! COME ON, BOY !\NGO, SANTA'S LITTLE HELPER !\NCOME ON, GET THAT RABBIT !
+Dialogue: 0,0:19:27.53,0:19:29.83,Default,,0,0,0,,{\an1\pos(64,432)\i1}DOG O'WAR COMING UP FAST\NON THE OUTSIDE.{\i0}
+Dialogue: 0,0:19:29.83,0:19:32.45,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\hCOME ON,\N\h\h\h\h\h\h\h\hSANTA'S LITTLE HELPER !\NCOME ON, DOG ! GO, MAN, GO !
+Dialogue: 0,0:19:32.45,0:19:35.35,Default,,0,0,0,,{\an1\pos(64,432)\i1}AND WITH A LOCK ON LAST PLACE,\NIT'S SANTA'S LITTLE HELPER.{\i0}
+Dialogue: 0,0:19:35.36,0:19:39.28,Default,,0,0,0,,{\an1\pos(136,432)}DON'T WORRY, DAD.
+Dialogue: 0,0:19:39.28,0:19:42.72,Default,,0,0,0,,{\an1\pos(64,432)}MAYBE THIS IS JUST FOR SUSPENSE\NBEFORE THE MIRACLE HAPPENS.
+Dialogue: 0,0:19:42.71,0:19:46.15,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h{\i1}COME ON, YOU STUPID DOG !\N\h\h\h\h\h\hCOME ON, BOY !\NGO, GO !{\i0}
+Dialogue: 0,0:19:46.15,0:19:48.62,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hRUN ! RUN !\NRUN, BABY, RUN !\NCOME ON, GET THAT RABBIT !
+Dialogue: 0,0:19:48.62,0:19:51.29,Default,,0,0,0,,{\an1\pos(136,432)}- {\i1}GO, GO, SANTA'S LITTLE\N- \h\hHELPER ! RUN, BABY, RUN !\N{\r}- GO, GO, GO !{\i0}
+Dialogue: 0,0:19:51.29,0:19:55.46,Default,,0,0,0,,{\an1\pos(64,432)\i1}WHIRLWIND BY A COUNTRY MILE,\NAND IN SECOND, CHEW MY SHOE,\NFOLLOWED BY DOG O'WAR.{\i0}
+Dialogue: 0,0:19:55.46,0:19:57.91,Default,,0,0,0,,{\an1\pos(280,432)}OH, JEEZ !
+Dialogue: 0,0:19:57.91,0:20:01.35,Default,,0,0,0,,{\an1\pos(64,120)}DOESN'T SEEM POSSIBLE,\NBUT I GUESS TV HAS BETRAYED ME.
+Dialogue: 0,0:20:01.35,0:20:03.80,Default,,0,0,0,,{\an1\pos(208,432)}I DON'T WANNA LEAVE\NTILL OUR DOG FINISHES.
+Dialogue: 0,0:20:09.17,0:20:10.94,Default,,0,0,0,,{\an1\pos(280,432)}AH, FORGET IT.\NLET'S GO.
+Dialogue: 0,0:20:20.40,0:20:22.83,Default,,0,0,0,,{\an1\pos(64,384)}FIND ANY WINNERS, SON ?\N\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\h\hSORRY, DAD.
+Dialogue: 0,0:20:23.34,0:20:26.28,Default,,0,0,0,,{\an1\pos(64,432)\i1}HEY, HEY, SIMPSON !\NWHAT'D I TELL YOU ?{\i0}
+Dialogue: 0,0:20:26.27,0:20:29.22,Default,,0,0,0,,{\an1\pos(208,432)}- WHIRLWIND !\N- LET'S GO, DARIA.
+Dialogue: 0,0:20:34.15,0:20:37.09,Default,,0,0,0,,{\an1\pos(64,432)\i1}BEAT IT ! SCRAM !\NGET LOST !{\i0}
+Dialogue: 0,0:20:37.08,0:20:40.03,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\NYOU CAME IN LAST\NFOR THE LAST TIME !
+Dialogue: 0,0:20:40.04,0:20:42.50,Default,,0,0,0,,{\an1\pos(208,432)}LOOK, DAD, IT'S\NSANTA'S LITTLE HELPER.
+Dialogue: 0,0:20:42.49,0:20:45.39,Default,,0,0,0,,{\an1\pos(136,432)}AND DON'T COME BACK !
+Dialogue: 0,0:20:45.39,0:20:48.34,Default,,0,0,0,,{\an1\pos(64,432)}OH, NO, YOU DON'T ! NO, NO !\NGET AWAY FROM ME ! UH-UH !
+Dialogue: 0,0:20:51.28,0:20:53.75,Default,,0,0,0,,{\an1\pos(280,432)}OH, CAN WE KEEP HIM,\NDAD, PLEASE ?
+Dialogue: 0,0:20:53.75,0:20:57.58,Default,,0,0,0,,{\an1\pos(208,432)}BUT HE'S A LOSER !\NHE'S PATHETIC ! HE'S--
+Dialogue: 0,0:20:59.51,0:21:01.65,Default,,0,0,0,,{\an1\pos(424,432)}A SIMPSON.
+Dialogue: 0,0:21:04.56,0:21:07.33,Default,,0,0,0,,{\an1\pos(64,432)}HMM. MAYBE I SHOULD\NCALL THE POLICE.
+Dialogue: 0,0:21:07.33,0:21:10.31,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\h\h\h\h\h\h\h\h\hOH, HE'LL SOBER UP.\NYEAH. COME STAGGERING HOME.
+Dialogue: 0,0:21:10.32,0:21:12.78,Default,,0,0,0,,{\an1\pos(136,432)}MM-HMM.\NSMELLING OF CHEAP PERFUME.
+Dialogue: 0,0:21:12.77,0:21:15.20,Default,,0,0,0,,{\an1\pos(64,384)\i1\r}HOMER !{\i0}
+Dialogue: 0,0:21:15.21,0:21:17.70,Default,,0,0,0,,{\an1\pos(136,432)}- WHAT ? WHAT THE--\N\h\hWHO THE--\N- LOOK, EVERYBODY,
+Dialogue: 0,0:21:17.69,0:21:21.58,Default,,0,0,0,,{\an1\pos(64,384)}\h\h\h\hI HAVE A CONFESSION TO MAKE.\NTHIS SHOULD BE GOOD.
+Dialogue: 0,0:21:21.58,0:21:24.08,Default,,0,0,0,,{\an1\pos(208,432)}I DIDN'T GET\NMY CHRISTMAS BONUS.
+Dialogue: 0,0:21:24.08,0:21:26.53,Default,,0,0,0,,{\an1\pos(208,432)}I TRIED NOT TO LET IT\NRUIN CHRISTMAS\NFOR EVERYBODY,
+Dialogue: 0,0:21:26.53,0:21:28.50,Default,,0,0,0,,{\an1\pos(280,432)}BUT NO MATTER\NWHAT I DID--
+Dialogue: 0,0:21:28.99,0:21:32.40,Default,,0,0,0,,{\an1\pos(64,408)}\h\h\h\h\h\h\h\h\h\h\h\hHEY, EVERYBODY,\N\h\h\h\h\h\h\h\h\h\h\h\hLOOK WHAT WE GOT !
+Dialogue: 0,0:21:32.39,0:21:34.81,Default,,0,0,0,,{\an1\pos(352,432)}A DOG !\NALL RIGHT, DAD !
+Dialogue: 0,0:21:34.81,0:21:39.28,Default,,0,0,0,,{\an1\pos(136,432)}- GOD BLESS HIM.\N- SO LOVE AT FIRST SIGHT\N\h\hIS POSSIBLE.
+Dialogue: 0,0:21:39.28,0:21:41.73,Default,,0,0,0,,{\an1\pos(136,432)}AND IF HE RUNS AWAY,\NHE'LL BE EASY TO CATCH.
+Dialogue: 0,0:21:41.73,0:21:44.20,Default,,0,0,0,,{\an1\pos(352,432)}OH, THIS IS\NTHE BEST GIFT\NOF ALL, HOMER !
+Dialogue: 0,0:21:44.20,0:21:46.62,Default,,0,0,0,,{\an1\pos(208,408)}IT IS ?\N\h\h\h\hYES. SOMETHING\N\h\h\h\hTO SHARE OUR LOVE...
+Dialogue: 0,0:21:47.12,0:21:48.59,Default,,0,0,0,,{\an1\pos(208,432)}AND FRIGHTEN PROWLERS.
+Dialogue: 0,0:21:48.59,0:21:51.02,Default,,0,0,0,,{\an1\pos(136,432)}- WHAT'S HIS NAME ?\N- NUMBER 8--
+Dialogue: 0,0:21:51.02,0:21:54.02,Default,,0,0,0,,{\an1\pos(64,432)}I MEAN,\NSANTA'S LITTLE HELPER.
+Dialogue: 0,0:22:07.62,0:22:10.04,Default,,0,0,0,,{\an1\pos(136,120)}♪ RUDOLPH THE RED-NOSED\N\h\hREINDEER ♪
+Dialogue: 0,0:22:10.54,0:22:13.54,Default,,0,0,0,,{\an1\pos(136,96)}♪ HAD A VERY SHINY NOSE ♪
+Dialogue: 0,0:22:13.55,0:22:16.56,Default,,0,0,0,,{\an1\pos(136,96)}♪ AND IF YOU EVER SAW IT ♪
+Dialogue: 0,0:22:16.55,0:22:19.55,Default,,0,0,0,,{\an1\pos(64,120)}♪ YOU WOULD EVEN SAY IT GLOWS ♪\N\h\h\h\h\h\h\h\h\h\h\h\hLIKE A LIGHT BULB !
+Dialogue: 0,0:22:19.55,0:22:22.30,Default,,0,0,0,,{\an1\pos(64,144)\i1}BART !\N♪ ALL OF THE OTHER REINDEER ♪{\i0}
+Dialogue: 0,0:22:22.79,0:22:24.64,Default,,0,0,0,,{\an1\pos(64,120)\i1}♪ USED TO LAUGH\N\h\hAND CALL HIM NAMES ♪{\i0}
+Dialogue: 0,0:22:24.64,0:22:26.61,Default,,0,0,0,,{\an1\pos(64,144)\i1}- LIKE SHNOZZOLA !\N- LISA !{\i0}
+Dialogue: 0,0:22:26.61,0:22:29.03,Default,,0,0,0,,{\an1\pos(64,96)\i1}♪ THEY NEVER LET POOR RUDOLPH ♪{\i0}
+Dialogue: 0,0:22:29.03,0:22:31.91,Default,,0,0,0,,{\an1\pos(64,144)\i1}♪ JOIN IN ANY REINDEER GAMES ♪\NLIKE STRIP POKER !{\i0}
+Dialogue: 0,0:22:31.92,0:22:35.33,Default,,0,0,0,,{\an1\pos(64,144)\i1}I'M WARNING YOU TWO !\N♪ THEN ONE FOGGY CHRISTMAS EVE ♪{\i0}
+Dialogue: 0,0:22:35.32,0:22:38.12,Default,,0,0,0,,{\an1\pos(64,144)\i1}♪ SANTA CAME TO SAY ♪\NTAKE IT, HOMER !{\i0}
+Dialogue: 0,0:22:38.62,0:22:41.86,Default,,0,0,0,,{\an1\pos(64,144)\i1}♪ UH, RUDOLPH GET YOUR NOSE\N\h\hOVER HERE ♪{\i0}
+Dialogue: 0,0:22:41.86,0:22:45.38,Default,,0,0,0,,{\an1\pos(64,144)\i1}♪ SO YOU CAN GUIDE\N\h\hMY SLEIGH TODAY ♪\NOH, HOMER.{\i0}
+Dialogue: 0,0:22:45.38,0:22:48.21,Default,,0,0,0,,{\an1\pos(64,120)\i1}♪ THEN ALL THE REINDEER\N\h\hLOVED HIM ♪{\i0}
+Dialogue: 0,0:22:48.22,0:22:51.56,Default,,0,0,0,,{\an1\pos(64,120)\i1}♪ AND THEY SHOUTED OUT\N\h\hWITH GLEE ♪{\i0}
+Dialogue: 0,0:22:51.55,0:22:54.43,Default,,0,0,0,,{\an1\pos(64,120)\i1}♪ RUDOLPH THE RED-NOSED\N\h\hREINDEER ♪{\i0}
+Dialogue: 0,0:22:54.44,0:22:57.95,Default,,0,0,0,,{\an1\pos(64,96)\i1}♪ YOU'LL GO DOWN IN HISTORY ♪{\i0}
+Dialogue: 0,0:22:57.94,0:23:00.44,Default,,0,0,0,,{\an1\pos(64,144)\i1}♪ LIKE ATTILA THE HU-- ♪\NYOU LITTLE--{\i0}
+Dialogue: 0,0:23:03.43,0:23:05.43,Default,,0,0,0,,{\an1\pos(136,432)}SHH.

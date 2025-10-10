@@ -1,0 +1,861 @@
+[Script Info]
+Title: The Simpsons - Christmas Special (Bilingual)
+ScriptType: v4.00+
+Collisions: Normal
+PlayResX: 708
+PlayResY: 480
+Timer: 100.0
+WrapStyle: 0
+
+[V4+ Styles]
+Format: Name, Fontname, Fontsize, PrimaryColour, SecondaryColour, OutlineColour, BackColour, Bold, Italic, Underline, StrikeOut, ScaleX, ScaleY, Spacing, Angle, BorderStyle, Outline, Shadow, Alignment, MarginL, MarginR, MarginV, Encoding
+Style: Default,Lucida Console,28,&H00FFFFFF,&H00FFFFFF,&H000F0F0F,&H000F0F0F,0,0,0,0,100,100,0,0.00,1,2,3,2,20,20,20,0
+
+[Events]
+Format: Layer, Start, End, Style, Name, MarginL, MarginR, MarginV, Effect, Text
+
+Dialogue: 0,0:00:08.34,0:00:10.41,Default,,0,0,0,,OOH! CAREFUL, HOMER!\N噢！小心点，霍默！
+
+Dialogue: 0,0:00:10.41,0:00:12.86,Default,,0,0,0,,THERE'S NO TIME TO BE CAREFUL. WE'RE LATE.\N没时间小心了！我们迟到了！
+
+Dialogue: 0,0:00:14.86,0:00:18.81,Default,,0,0,0,,♪ O LITTLE TOWN OF BETHLEHEM ♪\N♪ 哦，伯利恒小镇 ♪
+
+Dialogue: 0,0:00:18.82,0:00:23.33,Default,,0,0,0,,♪ HOW STILL WE SEE THEE LIE ♪\N♪ 多么宁静，你安然躺卧 ♪
+
+Dialogue: 0,0:00:23.32,0:00:26.40,Default,,0,0,0,,SORRY. EXCUSE ME. PARDON ME.\N抱歉，借过一下，不好意思。
+
+Dialogue: 0,0:00:26.41,0:00:28.22,Default,,0,0,0,,SORRY. EXCUSE ME.\NHEY, NORMAN, HOW'S IT GOIN'?\N抱歉，借过一下。\N嘿，诺曼，最近怎么样？
+
+Dialogue: 0,0:00:28.21,0:00:30.21,Default,,0,0,0,,SO YOU GOT DRAGGED DOWN HERE TOO, HUH?\N你也被抓来这儿啦，嗯？
+
+Dialogue: 0,0:00:30.21,0:00:32.21,Default,,0,0,0,,HOW YOU DOIN', FRED?\NSORRY. EXCUSE ME.\N弗雷德，你好啊？\N抱歉，借过一下。
+
+Dialogue: 0,0:00:32.21,0:00:34.21,Default,,0,0,0,,- YEAH. 'SCUSE ME. OH!\N- \N- 嗯，不好意思！噢！\N-
+
+Dialogue: 0,0:00:34.22,0:00:37.73,Default,,0,0,0,,PARDON MY GALOSHES.\N请原谅我的雨靴。
+
+Dialogue: 0,0:00:37.72,0:00:42.22,Default,,0,0,0,,♪ ARE MET IN THEE TONIGHT ♪\N♪ 今夜齐聚你城中 ♪
+
+Dialogue: 0,0:00:44.23,0:00:46.74,Default,,0,0,0,,WASN'T THAT WONDERFUL?\N刚才的表演太棒了，对吧？
+
+Dialogue: 0,0:00:46.73,0:00:51.23,Default,,0,0,0,,AND NOW "SANTAS OF MANY LANDS,"\NAS PRESENTED BY THE ENTIRE SECOND GRADE CLASS.\N接下来是《各国的圣诞老人》，\N由二年级全体同学倾情呈现。
+
+Dialogue: 0,0:00:54.74,0:00:57.20,Default,,0,0,0,,OH! LISA'S CLASS.\N哦！丽莎的班级！
+
+Dialogue: 0,0:00:57.19,0:00:59.69,Default,,0,0,0,,Frohliche Weihnachten.\N*Frohliche Weihnachten.*
+
+Dialogue: 0,0:00:59.69,0:01:02.19,Default,,0,0,0,,THAT'S GERMAN FOR "MERRY CHRISTMAS."\N这是德语，意思是“圣诞快乐”。
+
+Dialogue: 0,0:01:02.19,0:01:07.70,Default,,0,0,0,,IN GERMANY, SANTA'S SERVANT RUPRECHT GIVES PRESENTS TO GOOD CHILDREN...\N在德国，圣诞老人的仆人“鲁普雷希特”会给好孩子送礼物……
+
+Dialogue: 0,0:01:07.70,0:01:11.20,Default,,0,0,0,,AND WHIPPING RODS TO THE PARENTS OF BAD ONES.\N而坏孩子的父母，会收到一根鞭子。
+
+Dialogue: 0,0:01:14.17,0:01:16.17,Default,,0,0,0,,MERRY Kurisumasu.\N圣诞快乐（*Kurisumasu*）！
+
+Dialogue: 0,0:01:16.17,0:01:21.63,Default,,0,0,0,,I AM HOTSEIOSHA, A JAPANESE PRIEST WHO ACTS LIKE SANTA CLAUS.\N我是霍特赛欧沙，一位扮演圣诞老人的日本神父。
+
+Dialogue: 0,0:01:21.63,0:01:24.13,Default,,0,0,0,,I HAVE EYES IN THE BACK OF MY HEAD...\N我后脑勺也长着眼睛……
+
+Dialogue: 0,0:01:24.13,0:01:27.63,Default,,0,0,0,,SO CHILDREN BETTER BEHAVE WHEN I'M NEARBY.\N所以孩子们在我附近时，最好乖乖听话。
+
+Dialogue: 0,0:01:29.64,0:01:33.11,Default,,0,0,0,,NOW PRESENTING LISA SIMPSON...\N现在有请丽莎·辛普森……
+
+Dialogue: 0,0:01:33.11,0:01:38.62,Default,,0,0,0,,AS TAWANGA, THE SANTA CLAUS OF THE SOUTH SEAS.\N饰演南太平洋的圣诞老人——塔旺加。
+
+Dialogue: 0,0:01:38.61,0:01:40.61,Default,,0,0,0,,OOH, IT'S LISA! THAT'S OURS.\N噢，是丽莎！那是咱家的！
+
+Dialogue: 0,0:01:54.55,0:01:58.56,Default,,0,0,0,,AH, THE FOURTH GRADE WILL NOW FAVOR US WITH A MELODY--\N啊，四年级同学将为我们献上一段旋律——
+
+Dialogue: 0,0:01:58.55,0:02:02.55,Default,,0,0,0,,UH, MEDLEY OF HOLIDAY "FLAVORITES."\N呃，是一组节日“经典”串烧。
+
+Dialogue: 0,0:02:02.55,0:02:05.05,Default,,0,0,0,,♪ DASHING THROUGH THE SNOW ♪\N♪ 驾着雪橇飞奔 ♪
+
+Dialogue: 0,0:02:05.06,0:02:07.57,Default,,0,0,0,,♪ IN A ONE-HORSE OPEN SLEIGH ♪\N♪ 单马拉着敞篷雪橇 ♪
+
+Dialogue: 0,0:02:07.56,0:02:09.56,Default,,0,0,0,,♪ O'ER THE FIELDS WE GO ♪\N♪ 穿越田野飞驰 ♪
+
+Dialogue: 0,0:02:09.56,0:02:11.56,Default,,0,0,0,,♪ LAUGHING ALL THE WAY HA HA HA ♪\N♪ 一路欢笑哈哈 ♪
+
+Dialogue: 0,0:02:11.56,0:02:14.06,Default,,0,0,0,,♪ BELLS ON BOBTAIL RING ♪\N♪ 铃儿叮当响 ♪
+
+Dialogue: 0,0:02:14.07,0:02:17.08,Default,,0,0,0,,♪ ISN'T BART SWEET, HOMER? ♪\N♪ 巴特真可爱，是不是，霍默？ ♪
+
+Dialogue: 0,0:02:17.07,0:02:20.54,Default,,0,0,0,,HE SINGS LIKE AN ANGEL.\N他唱得像个天使。
+
+Dialogue: 0,0:02:20.54,0:02:24.12,Default,,0,0,0,,♪ OH, JINGLE BELLS BATMAN SMELLS ♪\N♪ 噢，铃儿响叮当，蝙蝠侠臭烘烘 ♪
+
+Dialogue: 0,0:02:24.13,0:02:26.13,Default,,0,0,0,,♪ ROBIN LAID AN EGG ♪\N♪ 罗宾下了个蛋 ♪
+
+Dialogue: 0,0:02:26.13,0:02:28.14,Default,,0,0,0,,♪ THE BATMOBILE BROKE ITS WHEEL ♪\N♪ 蝙蝠车爆了个轮胎 ♪
+
+Dialogue: 0,0:02:28.13,0:02:30.46,Default,,0,0,0,,♪ THE JOKER GOT AWA-- ♪\N♪ 小丑他逃—— ♪
+
+Dialogue: 0,0:02:30.47,0:02:32.64,Default,,0,0,0,,♪ JINGLE BELLS JINGLE BELLS ♪\N♪ 铃儿响叮当，铃儿响叮当 ♪
+
+Dialogue: 0,0:02:32.63,0:02:34.63,Default,,0,0,0,,♪ JINGLE ALL ♪\N♪ 铃儿响遍四方 ♪
+
+Dialogue: 0,0:02:34.64,0:02:37.15,Default,,0,0,0,,THE FIFTH GRADE WILL NOW FAVOR US...\N五年级同学将为我们献上……
+
+Dialogue: 0,0:02:37.14,0:02:42.14,Default,,0,0,0,,WITH A SCENE FROM CHARLES, UH, DICKENS' A CHRISTMAS CAROL.\N查尔斯……呃，狄更斯的《圣诞颂歌》片段。
+
+Dialogue: 0,0:02:42.14,0:02:46.64,Default,,0,0,0,,HOW MANY GRADES DOES THIS SCHOOL HAVE?\N这学校到底有几个年级啊？
+
+Dialogue: 0,0:02:46.65,0:02:50.66,Default,,0,0,0,,"DEAR FRIENDS OF THE SIMPSON FAMILY,\N我们辛普森家的朋友们，
+
+Dialogue: 0,0:02:50.65,0:02:53.65,Default,,0,0,0,,"WE HAD SOME SADNESS AND SOME GLADNESS THIS YEAR.\N今年我们有悲也有喜。
+
+Dialogue: 0,0:02:53.66,0:02:56.16,Default,,0,0,0,,"FIRST, THE SADNESS. OUR LITTLE CAT SNOWBALL...\N先说悲伤的事：我们的小猫雪球……
+
+Dialogue: 0,0:02:56.16,0:02:59.17,Default,,0,0,0,,"WAS UNEXPECTEDLY RUN OVER AND WENT TO KITTY HEAVEN.\N不幸被车撞了，去了猫咪天堂。
+
+Dialogue: 0,0:02:59.16,0:03:02.16,Default,,0,0,0,,"BUT WE BOUGHT A NEW LITTLE CAT, SNOWBALL II.\N“但我们又买了只新小猫，叫雪球二世。
+
+Dialogue: 0,0:03:02.16,0:03:04.66,Default,,0,0,0,,"SO I GUESS LIFE GOES ON.\N所以我想，生活还得继续。”
+
+Dialogue: 0,0:03:04.67,0:03:09.68,Default,,0,0,0,,"SPEAKING OF LIFE GOING ON, GRANDPA IS STILL WITH US, FEISTY AS EVER.\N“说到生活继续，爷爷还健在，脾气还是那么倔。
+
+Dialogue: 0,0:03:09.67,0:03:11.67,Default,,0,0,0,,"MAGGIE IS WALKING BY HERSELF,\N“玛姬已经能自己走路了，
+
+Dialogue: 0,0:03:11.67,0:03:15.17,Default,,0,0,0,,"LISA GOT STRAIGHT A's, AND BART--\N丽莎门门拿A，至于巴特嘛——
+
+Dialogue: 0,0:03:15.68,0:03:17.69,Default,,0,0,0,,"WELL, WE LOVE BART.\N“嗯，我们爱巴特。”
+
+Dialogue: 0,0:03:17.68,0:03:20.68,Default,,0,0,0,,"THE MAGIC OF THE SEASON HAS TOUCHED US ALL.\N“节日的魔力触动了我们每个人。”
+
+Dialogue: 0,0:03:20.68,0:03:23.18,Default,,0,0,0,,MARGE, HAVEN'T YOU FINISHED THAT STUPID LETTER YET?\N玛姬，那封蠢信你还没写完吗？
+
+Dialogue: 0,0:03:23.18,0:03:26.68,Default,,0,0,0,,- "HOMER SENDS HIS LOVE. HAPPY HOLIDAYS."\N- MARGE!\N- “霍默送上他的爱，祝大家节日快乐。”\N- 玛姬！
+
+Dialogue: 0,0:03:26.69,0:03:28.70,Default,,0,0,0,,- "THE SIMPSONS."\N- MARGE, WHERE'S THE EXTENSION CORD?\N- “辛普森一家。”\N- 玛姬，延长线在哪儿？
+
+Dialogue: 0,0:03:28.69,0:03:31.69,Default,,0,0,0,,FOR HEAVEN'S SAKE, HOMER. IT'S IN THE UTILITY DRAWER.\N天哪，霍默，就在工具抽屉里！
+
+Dialogue: 0,0:03:31.69,0:03:34.19,Default,,0,0,0,,SORRY. I'M JUST A BIG KID.\N抱歉，我只是个长不大的孩子。
+
+Dialogue: 0,0:03:34.20,0:03:36.70,Default,,0,0,0,,AND I LOVE CHRISTMAS SO MUCH.\N我实在太爱圣诞节了。
+
+Dialogue: 0,0:03:37.70,0:03:40.65,Default,,0,0,0,,D'OH!\N呃啊！
+
+Dialogue: 0,0:03:40.65,0:03:43.15,Default,,0,0,0,,ALL RIGHT, CHILDREN, LET ME HAVE THOSE LETTERS.\N好了，孩子们，把你们的信给我吧。
+
+Dialogue: 0,0:03:43.15,0:03:45.65,Default,,0,0,0,,I'LL SEND THEM TO SANTA'S WORKSHOP AT THE NORTH POLE.\N我会寄到北极的圣诞老人工作室。
+
+Dialogue: 0,0:03:45.66,0:03:48.17,Default,,0,0,0,,OH, PLEASE. THERE'S ONLY ONE FAT GUY THAT BRINGS US PRESENTS,\N噢，拜托，给我们送礼物的胖子可只有一个，
+
+Dialogue: 0,0:03:48.16,0:03:50.12,Default,,0,0,0,,AND HIS NAME AIN'T SANTA.\N而且他可不叫圣诞老人。
+
+Dialogue: 0,0:03:50.13,0:03:53.17,Default,,0,0,0,,UH-- A PONY?\N呃……一匹小马？
+
+Dialogue: 0,0:03:53.16,0:03:57.17,Default,,0,0,0,,OH, LISA, YOU'VE ASKED FOR THAT FOR THE LAST THREE YEARS,\N哦，丽莎，你都连续三年要小马了，
+
+Dialogue: 0,0:03:57.17,0:04:00.67,Default,,0,0,0,,AND I KEEP TELLING YOU SANTA CAN'T FIT A PONY INTO HIS SLEIGH.\N我一直在告诉你，圣诞老人的雪橇装不下小马。
+
+Dialogue: 0,0:04:00.67,0:04:02.67,Default,,0,0,0,,CAN'T YOU TAKE A HINT?\N你就不能领会一下吗？
+
+Dialogue: 0,0:04:02.67,0:04:04.67,Default,,0,0,0,,BUT I REALLY WANT A PONY,\N但我真的很想要一匹小马，
+
+Dialogue: 0,0:04:04.68,0:04:07.82,Default,,0,0,0,,AND I'VE BEEN REALLY, REALLY GOOD THIS YEAR. OH, DEAR.\N而且我今年真的、真的非常乖。噢，亲爱的。
+
+Dialogue: 0,0:04:07.81,0:04:10.68,Default,,0,0,0,,MAYBE BART IS A LITTLE MORE REALISTIC.\N也许巴特的愿望更现实一点。
+
+Dialogue: 0,0:04:10.68,0:04:12.68,Default,,0,0,0,,- A TATTOO?\N- A WHAT?\N- 一个纹身？\N- 什么？
+
+Dialogue: 0,0:04:12.68,0:04:15.18,Default,,0,0,0,,YEAH! THEY'RE COOL, AND THEY LAST THE REST OF YOUR LIFE.\N对啊！很酷，而且能陪你一辈子。
+
+Dialogue: 0,0:04:15.19,0:04:17.70,Default,,0,0,0,,YOU WILL NOT BE GETTING A TATTOO FOR CHRISTMAS.\N你圣诞节别想拿到纹身。
+
+Dialogue: 0,0:04:17.69,0:04:21.19,Default,,0,0,0,,YEAH. IF YOU WANT ONE, YOU'LL HAVE TO PAY FOR IT OUT OF YOUR OWN ALLOWANCE.\N没错。你要是真想要，得用自己的零花钱付。
+
+Dialogue: 0,0:04:21.19,0:04:22.69,Default,,0,0,0,,- ALL RIGHT!\N- HOMER!\N- 行吧！\N- 霍默！
+
+Dialogue: 0,0:04:22.69,0:04:24.69,Default,,0,0,0,,"YELLO."\N“喂。”
+
+Dialogue: 0,0:04:24.70,0:04:26.70,Default,,0,0,0,,MARGE, PLEASE. WHO'S THIS?\N玛姬，拜托。谁啊？
+
+Dialogue: 0,0:04:26.70,0:04:28.71,Default,,0,0,0,,MAY I PLEASE SPEAK TO MARGE?\N我可以跟玛姬说话吗？
+
+Dialogue: 0,0:04:28.70,0:04:31.70,Default,,0,0,0,,THIS IS HER SISTER, ISN'T IT? IS MARGE THERE?\N这是她姐姐吧？玛姬在吗？
+
+Dialogue: 0,0:04:31.70,0:04:35.17,Default,,0,0,0,,WHO SHALL I SAY IS CALLING? MARGE, PLEASE.\N请问您是哪位？玛姬，快接电话。
+
+Dialogue: 0,0:04:35.17,0:04:38.17,Default,,0,0,0,,IT'S YOUR SISTER. OH!\N是你姐姐。噢！
+
+Dialogue: 0,0:04:38.18,0:04:41.19,Default,,0,0,0,,HELLO. HELLO, MARGE. IT'S PATTY.\N喂？喂，玛姬，我是帕蒂。
+
+Dialogue: 0,0:04:41.18,0:04:45.68,Default,,0,0,0,,SELMA AND I COULDN'T BE MORE EXCITED ABOUT SEEING OUR BABY SISTER FOR CHRISTMAS EVE.\N塞尔玛和我都迫不及待想在圣诞夜见到我们的小妹妹。
+
+Dialogue: 0,0:04:45.68,0:04:49.68,Default,,0,0,0,,WELL, HOMER AND I ARE LOOKING FORWARD TO YOUR VISIT TOO.\N嗯，我和霍默也很期待你们来访。
+
+Dialogue: 0,0:04:51.69,0:04:54.19,Default,,0,0,0,,SOMEHOW I DOUBT THAT HOMER IS EXCITED.\N我可不信霍默会高兴。
+
+Dialogue: 0,0:04:54.19,0:04:56.19,Default,,0,0,0,,OF ALL THE MEN YOU COULD'VE MARRIED,\N在你能嫁的所有男人里，
+
+Dialogue: 0,0:04:56.19,0:04:59.19,Default,,0,0,0,,I DON'T KNOW WHY YOU PICKED ONE WHO'S ALWAYS SO RUDE TO US.\N真不明白你为啥选了个老对我们这么无礼的家伙。
+
+Dialogue: 0,0:04:59.20,0:05:01.71,Default,,0,0,0,,- GOOD ONE, DAD.\N- \N- 干得漂亮，老爸。\N-
+
+Dialogue: 0,0:05:01.70,0:05:04.20,Default,,0,0,0,,OKAY, KIDS, PREPARE TO BE DAZZLED.\N好了孩子们，准备好大吃一惊吧。
+
+Dialogue: 0,0:05:04.20,0:05:07.20,Default,,0,0,0,,MARGE, TURN ON THE JUICE!\N玛姬，通电吧！
+
+Dialogue: 0,0:05:09.71,0:05:12.17,Default,,0,0,0,,WHAT DO YOU THINK, KIDS?\N孩子们，你们觉得怎么样？
+
+Dialogue: 0,0:05:12.16,0:05:14.16,Default,,0,0,0,,NICE TRY, DAD.\N老爸，挺努力的。
+
+Dialogue: 0,0:05:14.16,0:05:16.16,Default,,0,0,0,,JUST HOLD YOUR HORSES, SON. HEY, SIMPSON!\N儿子，别急。嘿，辛普森！
+
+Dialogue: 0,0:05:16.16,0:05:20.16,Default,,0,0,0,,WHAT IS IT, FLANDERS? DO YOU THINK THIS LOOKS OKAY?\N怎么了，弗兰德斯？你觉得我这个看起来还行吗？
+
+Dialogue: 0,0:05:20.17,0:05:24.18,Default,,0,0,0,,HO HO HO. HO HO HO.\N呵呵呵。呵呵呵。
+
+Dialogue: 0,0:05:24.17,0:05:26.17,Default,,0,0,0,,OH! OH, NEATO!\N噢！哇，太酷了！
+
+Dialogue: 0,0:05:26.17,0:05:28.17,Default,,0,0,0,,IT'S TOO BRIGHT.\N太亮了。
+
+Dialogue: 0,0:05:28.18,0:05:30.69,Default,,0,0,0,,I OUGHTA-- FLANDERS. WHAT A BIG SHOW-OFF.\N我该——弗兰德斯。真是个爱显摆的家伙。
+
+Dialogue: 0,0:05:33.68,0:05:36.16,Default,,0,0,0,,- KIDS, YOU WANNA GO CHRISTMAS SHOPPING?\N- I DO!\N- 孩子们，想去买圣诞礼物吗？\N- 我想去！
+
+Dialogue: 0,0:05:36.17,0:05:38.68,Default,,0,0,0,,- ALL RIGHT! THE MALL!\N- GO GET YOUR MONEY.\N- 好嘞！去商场！\N- 去拿你们的钱。
+
+Dialogue: 0,0:05:38.67,0:05:41.95,Default,,0,0,0,,TELL US, MARGE. WHERE HAVE YOU BEEN HIDING THE CHRISTMAS MONEY?\N告诉我们，玛姬，你把圣诞钱藏哪儿了？
+
+Dialogue: 0,0:05:41.96,0:05:44.72,Default,,0,0,0,,OH, I HAVE MY SECRETS.\N哦，我自有我的秘密。
+
+Dialogue: 0,0:05:44.71,0:05:47.18,Default,,0,0,0,,TURN AROUND.\N转过去。
+
+Dialogue: 0,0:05:49.81,0:05:53.61,Default,,0,0,0,,- YOU CAN LOOK NOW.\N- OOH! BIG JAR THIS YEAR.\N- 现在可以看了。\N- 哇！今年存钱罐好大啊。
+
+Dialogue: 0,0:06:13.22,0:06:15.22,Default,,0,0,0,,OH, BART, THAT'S SO SWEET.\N哦，巴特，你真是太贴心了。
+
+Dialogue: 0,0:06:15.22,0:06:17.72,Default,,0,0,0,,IT'S THE BEST PRESENT A MOTHER COULD GET,\N这是妈妈能收到的最好的礼物，
+
+Dialogue: 0,0:06:17.73,0:06:20.23,Default,,0,0,0,,AND IT MAKES YOU LOOK SO DANGEROUS.\N而且让你看起来超酷。
+
+Dialogue: 0,0:06:22.73,0:06:25.18,Default,,0,0,0,,ONE "MOTHER," PLEASE.\N来一份“妈妈”，谢谢。
+
+Dialogue: 0,0:06:25.18,0:06:27.23,Default,,0,0,0,,WAIT A MINUTE. HOW OLD ARE YOU?\N等等，你多大了？
+
+Dialogue: 0,0:06:27.24,0:06:29.23,Default,,0,0,0,,- TWENTY-ONE, SIR.\N- GET IN THE CHAIR.\N- 二十一岁，先生。\N- 坐下吧。
+
+Dialogue: 0,0:06:35.19,0:06:37.16,Default,,0,0,0,,MM-HMM.\N嗯哼。
+
+Dialogue: 0,0:06:37.16,0:06:40.16,Default,,0,0,0,,MM-HMM. MM-HMM.\N嗯哼。嗯哼。
+
+Dialogue: 0,0:06:40.50,0:06:43.16,Default,,0,0,0,,MM-HMM. MM-HMM.\N嗯哼。嗯哼。
+
+Dialogue: 0,0:06:43.17,0:06:46.18,Default,,0,0,0,,ATTENTION, ALL PERSONNEL, PLEASE KEEP WORKING...\N各位员工请注意，请继续工作……
+
+Dialogue: 0,0:06:46.17,0:06:48.17,Default,,0,0,0,,DURING THE FOLLOWING ANNOUNCEMENT.\N在以下通知期间。
+
+Dialogue: 0,0:06:48.17,0:06:51.67,Default,,0,0,0,,AND NOW OUR BOSS AND FRIEND MR. BURNS.\N现在有请我们的老板兼朋友——伯恩斯先生。
+
+Dialogue: 0,0:06:51.68,0:06:54.19,Default,,0,0,0,,HELLO. I'M PROUD TO ANNOUNCE...\N大家好。我很自豪地宣布……
+
+Dialogue: 0,0:06:54.18,0:06:57.18,Default,,0,0,0,,THAT WE'VE BEEN ABLE TO INCREASE SAFETY HERE AT THE PLANT...\N我们成功提高了工厂的安全水平……
+
+Dialogue: 0,0:06:57.18,0:06:59.18,Default,,0,0,0,,WITHOUT INCREASING THE COST TO THE CONSUMER...\N而没有增加消费者的成本……
+
+Dialogue: 0,0:06:59.18,0:07:01.68,Default,,0,0,0,,OR AFFECTING MANAGEMENT PAY RAISES.\N也没影响管理层的加薪。
+
+Dialogue: 0,0:07:01.69,0:07:04.70,Default,,0,0,0,,HOWEVER, FOR YOU SEMISKILLED WORKERS,\N不过，对于你们这些半熟练工，
+
+Dialogue: 0,0:07:04.69,0:07:06.69,Default,,0,0,0,,THERE WILL BE NO CHRISTMAS BONUSES.\N今年没有圣诞奖金。
+
+Dialogue: 0,0:07:06.69,0:07:10.19,Default,,0,0,0,,OH, AND ONE MORE THING.\N哦，还有一件事。
+
+Dialogue: 0,0:07:10.19,0:07:12.19,Default,,0,0,0,,MERRY CHRISTMAS!\N圣诞快乐！
+
+Dialogue: 0,0:07:12.20,0:07:15.71,Default,,0,0,0,,OH, THANK GOD FOR THE BIG JAR.\N谢天谢地还有那个大存钱罐。
+
+Dialogue: 0,0:07:18.20,0:07:21.20,Default,,0,0,0,,WHERE'S THAT BART?\N巴特那小子跑哪儿去了？
+
+Dialogue: 0,0:07:27.13,0:07:31.18,Default,,0,0,0,,BUT, MOM, I THOUGHT YOU'D LIKE IT.\N可是妈妈，我以为你会喜欢的。
+
+Dialogue: 0,0:07:33.18,0:07:36.13,Default,,0,0,0,,YES, MRS. SIMPSON, WE CAN REMOVE YOUR SON'S TATTOO.\N是的，辛普森太太，我们可以去掉你儿子的纹身。
+
+Dialogue: 0,0:07:36.14,0:07:38.65,Default,,0,0,0,,IT'S A SIMPLE ROUTINE INVOLVING LASERS.\N这是个简单的激光手术。
+
+Dialogue: 0,0:07:38.64,0:07:40.89,Default,,0,0,0,,- COOL!\N- HOWEVER, IT IS RATHER EXPENSIVE,\N- 酷！\N- 不过费用相当高，
+
+Dialogue: 0,0:07:40.89,0:07:43.69,Default,,0,0,0,,AND WE MUST INSIST ON A CASH PAYMENT UP FRONT.\N而且必须先付现金。
+
+Dialogue: 0,0:07:43.70,0:07:45.70,Default,,0,0,0,,CASH? MM-HMM.\N现金？嗯哼。
+
+Dialogue: 0,0:07:45.70,0:07:48.71,Default,,0,0,0,,THANK GOD FOR HOMER'S CHRISTMAS BONUS.\N感谢上帝还有霍默的圣诞奖金。
+
+Dialogue: 0,0:07:50.70,0:07:54.20,Default,,0,0,0,,¡Ay, caramba! NOW, WHATEVER YOU DO, BOY, DON'T SQUIRM.\N哎呀！孩子，不管你做什么，千万别乱动。
+
+Dialogue: 0,0:07:54.21,0:07:58.17,Default,,0,0,0,,YOU DON'T WANNA GET THIS SUCKER NEAR YOUR EYE OR YOUR GROIN.\N你可不想让这玩意儿碰到你的眼睛或下体。
+
+Dialogue: 0,0:08:00.24,0:08:04.16,Default,,0,0,0,,OW! QUIT IT.\N哎哟！别动！
+
+Dialogue: 0,0:08:04.17,0:08:06.14,Default,,0,0,0,,OW! QUIT IT.\N哎哟！别动！
+
+Dialogue: 0,0:08:06.13,0:08:08.13,Default,,0,0,0,,OW! QUIT IT.\N哎哟！别动！
+
+Dialogue: 0,0:08:08.14,0:08:10.51,Default,,0,0,0,,OW! QUIT IT. HEY, WHAT'S WITH THIS?\N哎哟！别动！嘿，这是怎么回事？
+
+Dialogue: 0,0:08:10.51,0:08:14.15,Default,,0,0,0,,OW! QUIT IT! USED TO BE A REAL BOSS TATTOO.\N哎哟！别动！以前可是个超酷的纹身。
+
+Dialogue: 0,0:08:14.14,0:08:17.64,Default,,0,0,0,,BUT MOM HAD TO SPEND ALL THE CHRISTMAS MONEY HAVING IT SURGICALLY REMOVED.\N但妈妈不得不花光所有圣诞钱做手术去掉它。
+
+Dialogue: 0,0:08:17.65,0:08:20.66,Default,,0,0,0,,HUH?\N嗯？
+
+Dialogue: 0,0:08:21.65,0:08:24.65,Default,,0,0,0,,IT'S TRUE!\N是真的！
+
+Dialogue: 0,0:08:24.65,0:08:28.60,Default,,0,0,0,,THE JAR IS EMPTY! OH, MY GOD!\N存钱罐空了！天啊！
+
+Dialogue: 0,0:08:28.61,0:08:30.62,Default,,0,0,0,,WE'RE RUINED. CHRISTMAS IS CANCELED.\N我们完蛋了。圣诞节取消了。
+
+Dialogue: 0,0:08:31.11,0:08:33.11,Default,,0,0,0,,NO PRESENTS FOR ANYONE!\N谁也别想有礼物了！
+
+Dialogue: 0,0:08:33.11,0:08:36.61,Default,,0,0,0,,DON'T WORRY, HOMER. WE'LL JUST HAVE TO STRETCH YOUR CHRISTMAS BONUS...\N别担心，霍默。我们只能把你的圣诞奖金再省着点花了……
+
+Dialogue: 0,0:08:36.61,0:08:39.11,Default,,0,0,0,,EVEN FURTHER THIS YEAR.\N今年得省得更厉害了。
+
+Dialogue: 0,0:08:39.12,0:08:42.63,Default,,0,0,0,,- HOMER?\N- OH, YEAH. MY CHRISTMAS BONUS.\N- 霍默？\N- 噢，对啊。我的圣诞奖金。
+
+Dialogue: 0,0:08:42.62,0:08:45.12,Default,,0,0,0,,HOW SILLY OF ME.\N我可真傻。
+
+Dialogue: 0,0:08:45.12,0:08:48.11,Default,,0,0,0,,THIS'LL BE THE BEST CHRISTMAS YET.\N这会是有史以来最棒的圣诞节。
+
+Dialogue: 0,0:08:48.11,0:08:50.11,Default,,0,0,0,,THE BEST ANY FAMILY NEVER HAD.\N也是任何家庭从未拥有过的“最棒”。
+
+Dialogue: 0,0:08:53.98,0:08:56.11,Default,,0,0,0,,HO HO HO.\N呵呵呵。
+
+Dialogue: 0,0:08:57.12,0:08:59.13,Default,,0,0,0,,HO HO HO.\N呵呵呵。
+
+Dialogue: 0,0:09:00.62,0:09:03.12,Default,,0,0,0,,HO HO HO.\N呵呵呵。
+
+Dialogue: 0,0:09:04.13,0:09:07.64,Default,,0,0,0,,HO HO HO.\N呵呵呵。
+
+Dialogue: 0,0:09:07.63,0:09:09.63,Default,,0,0,0,,HO HO HO.\N呵呵呵。
+
+Dialogue: 0,0:09:12.08,0:09:16.00,Default,,0,0,0,,HMM. I GET THE FEELING THERE'S SOMETHING YOU HAVEN'T TOLD ME, HOMER.\N嗯……我觉得你有事瞒着我，霍默。
+
+Dialogue: 0,0:09:16.00,0:09:19.44,Default,,0,0,0,,- HUH? OH. I LOVE YOU, MARGE.\N- YOU TELL ME THAT ALL THE TIME.\N- 啊？哦。我爱你，玛姬。\N- 你老这么说。
+
+Dialogue: 0,0:09:19.44,0:09:21.91,Default,,0,0,0,,OH, GOOD, BECAUSE I DO LOVE YOU.\N那就好，因为我确实爱你。
+
+Dialogue: 0,0:09:21.91,0:09:24.84,Default,,0,0,0,,I DON'T DESERVE YOU AS MUCH AS A GUY WITH A FAT WALLET...\N我配不上你，不像那些钱包鼓鼓的男人……
+
+Dialogue: 0,0:09:24.85,0:09:27.81,Default,,0,0,0,,AND A CREDIT CARD THAT WON'T SET OFF THAT HORRIBLE BEEPING.\N还有信用卡不会发出那种可怕“嘀嘀”声的人。
+
+Dialogue: 0,0:09:27.80,0:09:31.23,Default,,0,0,0,,I THINK IT DOES HAVE SOMETHING TO DO WITH YOUR CHRISTMAS BONUS.\N我觉得这跟你圣诞奖金有关。
+
+Dialogue: 0,0:09:31.24,0:09:33.21,Default,,0,0,0,,I KEEP ASKING FOR IT, BUT--\N我一直问你要，但——
+
+Dialogue: 0,0:09:33.20,0:09:36.64,Default,,0,0,0,,MARGE, UM, LET ME BE HONEST WITH YOU.\N玛姬，嗯……让我对你坦白吧。
+
+Dialogue: 0,0:09:36.64,0:09:41.04,Default,,0,0,0,,YES? WELL, I WOULD--\N好啊？那我——
+
+Dialogue: 0,0:09:44.95,0:09:47.40,Default,,0,0,0,,I-- I WANNA DO THE CHRISTMAS SHOPPING THIS YEAR.\N我……我想今年负责买圣诞礼物。
+
+Dialogue: 0,0:09:47.40,0:09:50.35,Default,,0,0,0,,UH, SURE, OKAY.\N呃，行吧。
+
+Dialogue: 0,0:09:54.16,0:09:57.07,Default,,0,0,0,,MARGE, MARGE. HMM. LET'S SEE.\N玛姬，玛姬。嗯……看看。
+
+Dialogue: 0,0:09:57.08,0:09:59.54,Default,,0,0,0,,OOH, LOOK!\N噢，看！
+
+Dialogue: 0,0:09:59.53,0:10:02.96,Default,,0,0,0,,PANTYHOSE. PRACTICAL AND ALLURING.\N连裤袜。实用又迷人。
+
+Dialogue: 0,0:10:03.45,0:10:06.40,Default,,0,0,0,,A SIX-PACK. OH! ONLY 4.99.\N六罐装啤酒。噢！才4.99。
+
+Dialogue: 0,0:10:06.40,0:10:08.85,Default,,0,0,0,,OOH! PADS OF PAPER.\N噢！一叠纸。
+
+Dialogue: 0,0:10:08.86,0:10:11.82,Default,,0,0,0,,I BET BART CAN THINK OF A MILLION THINGS TO DO WITH THESE.\N我打赌巴特能想出一百万种玩法。
+
+Dialogue: 0,0:10:12.29,0:10:15.73,Default,,0,0,0,,THAT JUST LEAVES LITTLE MAGGIE. OH, LOOK!\N那就只剩小玛姬了。噢，看！
+
+Dialogue: 0,0:10:15.73,0:10:17.70,Default,,0,0,0,,A LITTLE SQUEAK TOY.\N一个小 squeak 玩具。
+
+Dialogue: 0,0:10:17.70,0:10:20.65,Default,,0,0,0,,IT SAYS IT'S FOR DOGS, BUT SHE CAN'T READ.\N上面写着是给狗的，但她又不识字。
+
+Dialogue: 0,0:10:21.62,0:10:24.75,Default,,0,0,0,,OW! OH, SIMPSON, IT'S YOU.\N哎哟！哦，辛普森，是你啊。
+
+Dialogue: 0,0:10:24.76,0:10:28.50,Default,,0,0,0,,HELLO, FLANDERS. OH, MY! WHAT A LITTLE MESS WE'VE GOT HERE.\N你好，弗兰德斯。天哪！我们这儿可真乱啊。
+
+Dialogue: 0,0:10:28.49,0:10:30.94,Default,,0,0,0,,WELL, WHICH ONES ARE YOURS AND WHICH ONES ARE MINE?\N那哪些是你的，哪些是我的？
+
+Dialogue: 0,0:10:30.95,0:10:34.19,Default,,0,0,0,,WELL, LET'S SEE. OH, THIS ONE'S MINE. THIS ONE'S MINE.\N嗯，让我看看。哦，这个是我的，这个也是我的。
+
+Dialogue: 0,0:10:34.18,0:10:36.85,Default,,0,0,0,,THIS ONE'S MINE, AND THIS-- THEY'RE ALL YOURS!\N这个是我的，还有这个——全都是你的！
+
+Dialogue: 0,0:10:36.85,0:10:39.78,Default,,0,0,0,,HEY, MR. SIMPSON, YOU DROPPED YOUR PORK CHOP.\N嘿，辛普森先生，你的猪排掉了。
+
+Dialogue: 0,0:10:39.79,0:10:43.73,Default,,0,0,0,,- GIMME THAT!\N- WELL, HAPPY HOLIDAYS, SIMPSON.\N- 给我！\N- 那祝你节日快乐，辛普森。
+
+Dialogue: 0,0:10:43.72,0:10:48.14,Default,,0,0,0,,GEE, DAD, THIS IS GONNA BE THE BEST CHRISTMAS EVER. YOU BET.\N天哪，老爸，这会是有史以来最棒的圣诞节。那当然。
+
+Dialogue: 0,0:10:57.97,0:11:01.91,Default,,0,0,0,,WHAT'S THE MATTER, HOMER? SOMEBODY LEAVE A LUMP OF COAL IN YOUR STOCKING?\N怎么了，霍默？有人往你袜子里塞煤块了？
+
+Dialogue: 0,0:11:01.91,0:11:04.36,Default,,0,0,0,,YOU'VE BEEN SITTING THERE, SUCKING ON A BEER ALL DAY LONG.\N你一整天就坐在那儿，灌啤酒。
+
+Dialogue: 0,0:11:04.36,0:11:06.81,Default,,0,0,0,,SO? SO, IT'S CHRISTMAS.\N那又怎样？今天可是圣诞节。
+
+Dialogue: 0,0:11:06.81,0:11:10.25,Default,,0,0,0,,THANKS, MOE.\N谢谢，莫。
+
+Dialogue: 0,0:11:10.25,0:11:12.68,Default,,0,0,0,,DRINKS ALL AROUND!\N大家喝一杯！
+
+Dialogue: 0,0:11:12.69,0:11:14.65,Default,,0,0,0,,WHAT'S WITH THE CRAZY GETUP, BARN?\N巴尼，你这身打扮是怎么回事？
+
+Dialogue: 0,0:11:14.64,0:11:19.06,Default,,0,0,0,,I GOT ME A PART-TIME JOB WORKING AS A SANTA DOWN AT THE MALL.\N我在商场找了份兼职，扮圣诞老人。
+
+Dialogue: 0,0:11:19.14,0:11:20.99,Default,,0,0,0,,WOW! CAN I DO THAT?\N哇！我能干这个吗？
+
+Dialogue: 0,0:11:21.00,0:11:23.94,Default,,0,0,0,,- I DON'T KNOW.\N- THEY'RE PRETTY SELECTIVE.\N- 不知道。\N- 他们挑得很严。
+
+Dialogue: 0,0:11:23.93,0:11:25.90,Default,,0,0,0,,DO YOU LIKE CHILDREN?\N你喜欢小孩吗？
+
+Dialogue: 0,0:11:25.90,0:11:29.33,Default,,0,0,0,,WHAT DO YOU MEAN? ALL THE TIME? EVEN WHEN THEY'RE NUTS?\N什么意思？一直喜欢？就算他们疯疯癫癫也喜欢？
+
+Dialogue: 0,0:11:29.34,0:11:32.78,Default,,0,0,0,,- HMM.\N- UH, I CERTAINLY DO.\N- 嗯……\N- 呃，当然喜欢。
+
+Dialogue: 0,0:11:32.77,0:11:34.57,Default,,0,0,0,,WELCOME ABOARD, SIMPSON.\N欢迎加入，辛普森。
+
+Dialogue: 0,0:11:34.58,0:11:37.70,Default,,0,0,0,,PENDING YOUR SUCCESSFUL COMPLETION OF OUR TRAINING PROGRAM, THAT IS.\N前提是你要通过我们的培训。
+
+Dialogue: 0,0:11:37.70,0:11:41.14,Default,,0,0,0,,HO HO HO. HO HO HO.\N呵呵呵。呵呵呵。
+
+Dialogue: 0,0:11:41.13,0:11:44.08,Default,,0,0,0,,HO HO HO. HO HO HO.\N呵呵呵。呵呵呵。
+
+Dialogue: 0,0:11:44.09,0:11:47.03,Default,,0,0,0,,- WHAT IS IT NOW, SIMPSON?\N- UH, WHEN DO WE GET PAID?\N- 又怎么了，辛普森？\N- 呃，我们什么时候发工资？
+
+Dialogue: 0,0:11:47.02,0:11:50.92,Default,,0,0,0,,NOT A DIME TILL CHRISTMAS EVE! NOW, FROM THE TOP.\N圣诞夜前一分钱都没有！来，从头开始。
+
+Dialogue: 0,0:11:50.93,0:11:54.87,Default,,0,0,0,,HO HO HO. HO HO HO.\N呵呵呵。呵呵呵。
+
+Dialogue: 0,0:11:54.86,0:11:57.81,Default,,0,0,0,,UM, DASHER.\N呃，猛冲。
+
+Dialogue: 0,0:11:57.82,0:12:00.27,Default,,0,0,0,,DANCER. MM-HMM.\N舞者。嗯哼。
+
+Dialogue: 0,0:12:00.27,0:12:02.74,Default,,0,0,0,,PRANCER. MM-HMM.\N欢腾。嗯哼。
+
+Dialogue: 0,0:12:02.74,0:12:04.70,Default,,0,0,0,,NIXON.\N尼克松。
+
+Dialogue: 0,0:12:04.69,0:12:08.14,Default,,0,0,0,,COMET AND... CUPID.\N彗星……还有丘比特。
+
+Dialogue: 0,0:12:08.14,0:12:09.94,Default,,0,0,0,,DONNA DIXON? SIT DOWN, SIMPSON.\N唐娜·狄克逊？坐下吧，辛普森。
+
+Dialogue: 0,0:12:09.94,0:12:12.06,Default,,0,0,0,,AND WHAT WOULD YOU LIKE, LITTLE BOY?\N小朋友，你想要什么？
+
+Dialogue: 0,0:12:12.06,0:12:14.45,Default,,0,0,0,,YOU'RE NOT REALLY SANTA, TUBBY. WHY, YOU LITTLE EGGHEAD!\N你根本不是圣诞老人，胖子！你这个小书呆子！
+
+Dialogue: 0,0:12:14.45,0:12:16.98,Default,,0,0,0,,NO, HOMER! IF SUCH AN EMERGENCY ARISES,\N不，霍默！万一遇到这种情况，
+
+Dialogue: 0,0:12:17.47,0:12:19.92,Default,,0,0,0,,YOU JUST TELL THEM SANTA'S VERY BUSY THIS TIME OF YEAR,\N你就告诉他们圣诞老人年底特别忙，
+
+Dialogue: 0,0:12:19.92,0:12:23.85,Default,,0,0,0,,AND YOU ARE ONE OF HIS HELPERS. OH, I KNEW THAT ONE TOO!\N而你是他的助手之一。哦，这个我也知道！
+
+Dialogue: 0,0:12:26.81,0:12:29.26,Default,,0,0,0,,HOMER, WHY ARE YOU SEVEN HOURS LATE?\N霍默，你为什么晚了七个小时？
+
+Dialogue: 0,0:12:29.26,0:12:32.21,Default,,0,0,0,,NOT A WORD, MARGE. I'M HEADING STRAIGHT FOR THE TUB.\N一个字也别说，玛姬。我要直接去泡澡。
+
+Dialogue: 0,0:12:32.22,0:12:34.18,Default,,0,0,0,,BUT, HOMER, MY SISTERS ARE HERE.\N可是霍默，我姐姐们来了。
+
+Dialogue: 0,0:12:34.17,0:12:36.63,Default,,0,0,0,,DON'T YOU WANNA SAY HELLO?\N你不想打个招呼吗？
+
+Dialogue: 0,0:12:39.09,0:12:41.54,Default,,0,0,0,,DADDY! DADDY! WE'RE SO GLAD TO SEE YOU! OH, DAD, YOU'RE FINALLY HOME!\N爸爸！爸爸！见到你太高兴了！哦，老爸，你终于回家了！
+
+Dialogue: 0,0:12:41.54,0:12:45.43,Default,,0,0,0,,WHAT? WHY? OH, YEAH.\N什么？为什么？哦，对了。
+
+Dialogue: 0,0:12:45.43,0:12:47.88,Default,,0,0,0,,HELLO, PATTY. HELLO, SELMA.\N你好，帕蒂。你好，塞尔玛。
+
+Dialogue: 0,0:12:47.88,0:12:50.33,Default,,0,0,0,,HOW WAS YOUR TRIP? FINE.\N路上顺利吗？还行。
+
+Dialogue: 0,0:12:50.33,0:12:52.80,Default,,0,0,0,,- YOU BOTH LOOK WELL.\N- THANK YOU.\N- 你们气色都不错。\N- 谢谢。
+
+Dialogue: 0,0:12:52.80,0:12:55.74,Default,,0,0,0,,YEAH, WELL, MERRY CHRISTMAS. IT'S CHRISTMAS?\N嗯，圣诞快乐。今天是圣诞节？
+
+Dialogue: 0,0:12:55.74,0:12:58.69,Default,,0,0,0,,YOU WOULDN'T KNOW IT AROUND HERE. AND WHY IS THAT?\N在这儿可看不出来。为什么？
+
+Dialogue: 0,0:12:58.69,0:13:03.11,Default,,0,0,0,,- FOR ONE THING, THERE'S NO TREE\N- WELL, I WAS JUST ON MY WAY OUT TO GET ONE!\N- 首先，连棵圣诞树都没有。\N- 我正要出门去买一棵呢！
+
+Dialogue: 0,0:13:03.11,0:13:04.63,Default,,0,0,0,,CAN WE GO TOO, DAD? YEAH, CAN WE?\N我们能一起去吗，老爸？能去吗？
+
+Dialogue: 0,0:13:04.63,0:13:06.06,Default,,0,0,0,,NO!\N不行！
+
+Dialogue: 0,0:13:06.07,0:13:08.49,Default,,0,0,0,,♪ SLEIGH BELLS RING ♪\N♪ 铃儿响叮当 ♪
+
+Dialogue: 0,0:13:08.49,0:13:11.45,Default,,0,0,0,,♪ ARE YOU LISTENING ♪\N♪ 你听见了吗 ♪
+
+Dialogue: 0,0:13:11.44,0:13:13.89,Default,,0,0,0,,♪ IN THE LANE ♪\N♪ 在小路上 ♪
+
+Dialogue: 0,0:13:14.38,0:13:16.85,Default,,0,0,0,,♪ SNOW IS GLISTENING ♪\N♪ 雪在闪耀 ♪
+
+Dialogue: 0,0:13:16.84,0:13:20.28,Default,,0,0,0,,♪ A BEAUTIFUL SIGHT ♪\N♪ 多美的景色 ♪
+
+Dialogue: 0,0:13:20.28,0:13:23.23,Default,,0,0,0,,♪ WE'RE HAPPY TONIGHT ♪\N♪ 今晚我们真开心 ♪
+
+Dialogue: 0,0:13:23.23,0:13:26.67,Default,,0,0,0,,♪ WALKING IN A WINTER WONDERLAND ♪\N♪ 漫步在冬日仙境 ♪
+
+Dialogue: 0,0:13:29.12,0:13:31.56,Default,,0,0,0,,HEY, YOU! WHAT DO YOU THINK YOU'RE DOIN'?\N喂！你以为你在干什么？
+
+Dialogue: 0,0:13:31.56,0:13:33.49,Default,,0,0,0,,UH-OH. HEY! HEY!\N糟了。嘿！嘿！
+
+Dialogue: 0,0:13:33.49,0:13:35.94,Default,,0,0,0,,COME BACK HERE!\N给我回来！
+
+Dialogue: 0,0:13:38.38,0:13:41.82,Default,,0,0,0,,SO WHAT DO YOU THINK, KIDS? BEAUTY, ISN'T IT?\N孩子们，你们觉得怎么样？漂亮吧？
+
+Dialogue: 0,0:13:41.82,0:13:44.75,Default,,0,0,0,,WOW! YAY, DAD! WAY TO GO, DAD!\N哇！耶，老爸！干得漂亮，老爸！
+
+Dialogue: 0,0:13:44.76,0:13:48.40,Default,,0,0,0,,- WHY IS THERE A BIRDHOUSE IN IT?\N- UH, THAT'S AN ORNAMENT.\N- 为什么上面有个鸟屋？\N- 呃，那是装饰品。
+
+Dialogue: 0,0:13:48.39,0:13:50.86,Default,,0,0,0,,DO I SMELL GUNPOWDER?\N我闻到火药味了？
+
+Dialogue: 0,0:13:50.86,0:13:53.61,Default,,0,0,0,,AND THEN I WANT SOME ROBOTOIDS.\N我还想要些机器人。
+
+Dialogue: 0,0:13:53.61,0:13:56.26,Default,,0,0,0,,AND THEN I WANT A GOOP MONSTER.\N还要一个黏液怪兽。
+
+Dialogue: 0,0:13:56.27,0:13:58.23,Default,,0,0,0,,AND THEN I WANT A GREAT BIG, GIANT--\N还要一个超级大——
+
+Dialogue: 0,0:13:58.22,0:14:00.18,Default,,0,0,0,,AW, SON, YOU DON'T NEED ALL THAT JUNK.\N哎呀，儿子，你不需要那些破烂。
+
+Dialogue: 0,0:14:00.19,0:14:03.15,Default,,0,0,0,,I'M SURE YOU'VE ALREADY GOT SOMETHING MUCH MORE IMPORTANT--\N我相信你已经有更重要的东西了——
+
+Dialogue: 0,0:14:03.62,0:14:08.04,Default,,0,0,0,,A DECENT HOME AND A LOVING FATHER WHO WOULD DO ANYTHING FOR YOU.\N一个像样的家，和一个愿意为你做任何事的慈爱父亲。
+
+Dialogue: 0,0:14:08.05,0:14:10.57,Default,,0,0,0,,HEY, I COULDN'T AFFORD LUNCH. GIVE ME A BITE OF THAT DONUT.\N嘿，我午饭都吃不起。分我一口甜甜圈。
+
+Dialogue: 0,0:14:13.42,0:14:15.79,Default,,0,0,0,,GET A LOAD OF THAT QUOTE-UNQUOTE SANTA.\N瞧瞧那个所谓的“圣诞老人”。
+
+Dialogue: 0,0:14:15.79,0:14:17.75,Default,,0,0,0,,I CAN'T BELIEVE THOSE KIDS ARE FALLING FOR IT.\N真不敢相信那些小孩还信这个。
+
+Dialogue: 0,0:14:17.74,0:14:20.20,Default,,0,0,0,,HEY, MILHOUSE, I DARE YOU TO SIT ON HIS LAP.\N嘿，米尔豪斯，我赌你不敢坐他腿上。
+
+Dialogue: 0,0:14:20.21,0:14:24.64,Default,,0,0,0,,- OH, YEAH? WELL, I DARE YOU TO YANK HIS BEARD OFF.\N- AH, TOUCHE.\N- 哦，是吗？那我赌你敢扯掉他的胡子。\N- 哎呀，服了。
+
+Dialogue: 0,0:14:24.63,0:14:26.59,Default,,0,0,0,,I HOPE YOU FEEL BETTER, SANTA.\N希望你好点，圣诞老人。
+
+Dialogue: 0,0:14:26.60,0:14:29.06,Default,,0,0,0,,OH, I WILL WHEN MRS. CLAUS' SISTERS GET OUTTA TOWN.\N等克劳斯太太的姐姐们离开镇子，我就好了。
+
+Dialogue: 0,0:14:29.53,0:14:31.50,Default,,0,0,0,,THANKS FOR LISTENIN', KID.\N谢谢你听我说，孩子。
+
+Dialogue: 0,0:14:33.47,0:14:35.44,Default,,0,0,0,,HEY, SANTA, WHAT'S SHAKIN', MAN?\N嘿，圣诞老人，最近咋样，伙计？
+
+Dialogue: 0,0:14:35.44,0:14:39.36,Default,,0,0,0,,WHAT'S YOUR NAME, BART... NER? UH, LITTLE PARTNER?\N你叫什么名字，巴特……书呆子？呃，小朋友？
+
+Dialogue: 0,0:14:39.36,0:14:42.31,Default,,0,0,0,,- I'M BART SIMPSON. WHO THE HELL ARE YOU?\N- I'M JOLLY OLD ST. NICK.\N- 我是巴特·辛普森。你谁啊？\N- 我是快乐的老圣尼克。
+
+Dialogue: 0,0:14:42.31,0:14:44.76,Default,,0,0,0,,OH, YEAH? WE'LL JUST SEE ABOUT THAT.\N哦，是吗？咱们走着瞧。
+
+Dialogue: 0,0:14:44.77,0:14:47.69,Default,,0,0,0,,D'OH!\N呃啊！
+
+Dialogue: 0,0:14:47.69,0:14:51.63,Default,,0,0,0,,HOMER! I WANT A WORD WITH YOU IN SANTA'S WORKSHOP.\N霍默！我要在圣诞老人小屋里跟你谈谈。
+
+Dialogue: 0,0:14:51.62,0:14:55.06,Default,,0,0,0,,- COVER FOR ME, ELFIE.\N- DON'T KILL ME, DAD. I DIDN'T KNOW IT WAS YOU.\N- 掩护我一下，小精灵。\N- 别杀我，老爸。我不知道是你。
+
+Dialogue: 0,0:14:55.06,0:14:57.02,Default,,0,0,0,,NOBODY KNOWS. IT'S A SECRET.\N没人知道。这是个秘密。
+
+Dialogue: 0,0:14:57.03,0:14:58.99,Default,,0,0,0,,I DIDN'T GET MY BONUS THIS YEAR.\N我今年没拿到奖金。
+
+Dialogue: 0,0:14:58.98,0:15:01.45,Default,,0,0,0,,BUT TO KEEP THE FAMILY FROM MISSING OUT ON CHRISTMAS,\N但为了不让家人错过圣诞节，
+
+Dialogue: 0,0:15:01.45,0:15:03.40,Default,,0,0,0,,I'D DO ANYTHING. I'LL SAY, DAD.\N我什么都愿意做。老爸，你真行。
+
+Dialogue: 0,0:15:03.40,0:15:06.73,Default,,0,0,0,,YOU MUST REALLY LOVE US TO SINK SO LOW.\N你一定非常爱我们，才会沦落到这种地步。
+
+Dialogue: 0,0:15:07.76,0:15:09.73,Default,,0,0,0,,NOW, LET'S NOT GET MUSHY, SON.\N别煽情了，儿子。
+
+Dialogue: 0,0:15:09.72,0:15:11.69,Default,,0,0,0,,I STILL HAVE A JOB TO DO.\N我还有工作要做。
+
+Dialogue: 0,0:15:11.69,0:15:14.12,Default,,0,0,0,,HEY, LITTLE ONES. SANTA'S BACK.\N嘿，小朋友们，圣诞老人回来了。
+
+Dialogue: 0,0:15:14.13,0:15:15.87,Default,,0,0,0,,HO HO-- D'OH!\N呵呵——呃啊！
+
+Dialogue: 0,0:15:15.86,0:15:19.01,Default,,0,0,0,,DAMN IT TO--\N该死的——
+
+Dialogue: 0,0:15:19.02,0:15:21.14,Default,,0,0,0,,AH, SON, ONE DAY YOU'RE GONNA KNOW...\N啊，儿子，总有一天你会明白……
+
+Dialogue: 0,0:15:21.45,0:15:23.42,Default,,0,0,0,,THE SATISFACTION OF PAYDAY.\N发薪日的满足感。
+
+Dialogue: 0,0:15:23.42,0:15:26.49,Default,,0,0,0,,RECEIVING A BIG FAT CHECK FOR A JOB WELL DONE.\N因为干得好，拿到一张厚厚的大支票。
+
+Dialogue: 0,0:15:26.49,0:15:28.82,Default,,0,0,0,,SIMPSON, HOMER? HERE YA GO.\N辛普森，霍默？给你。
+
+Dialogue: 0,0:15:28.83,0:15:33.25,Default,,0,0,0,,COME ON, SON. LET'S GO CASH THIS BABY AND GET PRESENTS FOR--\N走吧，儿子。咱们去兑现这张支票，给大伙买礼物——
+
+Dialogue: 0,0:15:33.25,0:15:36.21,Default,,0,0,0,,THIRTEEN BUCKS? HEY, WAIT A MINUTE.\N十三块钱？等等。
+
+Dialogue: 0,0:15:36.20,0:15:38.15,Default,,0,0,0,,THAT'S RIGHT. $120 GROSS.\N没错。税前120块。
+
+Dialogue: 0,0:15:38.15,0:15:40.12,Default,,0,0,0,,LESS SOCIAL SECURITY, LESS UNEMPLOYMENT INSURANCE,\N扣掉社保，扣掉失业保险，
+
+Dialogue: 0,0:15:40.12,0:15:42.09,Default,,0,0,0,,- LESS SANTA TRAINING...\N- SANTA TRAINING?\N- 再扣圣诞老人培训费……\N- 圣诞老人培训费？
+
+Dialogue: 0,0:15:42.09,0:15:44.05,Default,,0,0,0,,LESS COSTUME PURCHASE, LESS BEARD RENTAL, LESS CHRISTMAS CLUB.\N再扣服装费、胡子租金、圣诞储蓄会费。
+
+Dialogue: 0,0:15:44.06,0:15:46.47,Default,,0,0,0,,- BUT-- BUT--\N- SEE YA NEXT YEAR.\N- 可是——可是——\N- 明年见。
+
+Dialogue: 0,0:15:46.46,0:15:49.41,Default,,0,0,0,,OHH! COME ON, DAD. LET'S GO HOME.\N唉！走吧，老爸，咱们回家。
+
+Dialogue: 0,0:15:49.90,0:15:51.39,Default,,0,0,0,,THIRTEEN BUCKS?\N十三块钱？
+
+Dialogue: 0,0:15:51.38,0:15:53.83,Default,,0,0,0,,YOU CAN'T GET ANYTHING FOR 13 BUCKS.\N十三块钱什么都买不了。
+
+Dialogue: 0,0:15:53.83,0:15:57.27,Default,,0,0,0,,ALL RIGHT! THIRTEEN BIG ONES!\N好吧！十三张大钞！
+
+Dialogue: 0,0:15:57.27,0:15:59.24,Default,,0,0,0,,SPRINGFIELD DOWNS, HERE I COME!\N斯普林菲尔德赛狗场，我来了！
+
+Dialogue: 0,0:15:59.24,0:16:01.69,Default,,0,0,0,,- WHAT?\N- YOU HEARD ME.\N- 什么？\N- 你听见了。
+
+Dialogue: 0,0:16:01.69,0:16:03.66,Default,,0,0,0,,I'M GOIN' TO THE DOG TRACK.\N我要去赛狗场。
+
+Dialogue: 0,0:16:03.66,0:16:05.63,Default,,0,0,0,,I GOT A HOT LITTLE PUPPY IN THE FOURTH RACE.\N第四场比赛我押了匹热门小狗。
+
+Dialogue: 0,0:16:05.63,0:16:07.59,Default,,0,0,0,,WANNA COME? SORRY, BARNEY.\N要一起来吗？抱歉，巴尼。
+
+Dialogue: 0,0:16:07.60,0:16:11.04,Default,,0,0,0,,I MAY BE A TOTAL WASHOUT AS A FATHER, BUT I'M NOT GONNA TAKE MY KID...\N我可能是个彻底失败的父亲，但我不会带孩子……
+
+Dialogue: 0,0:16:11.04,0:16:13.46,Default,,0,0,0,,TO A SLEAZY DOG TRACK ON CHRISTMAS EVE.\N在圣诞夜去那种下流的赛狗场。
+
+Dialogue: 0,0:16:13.45,0:16:17.39,Default,,0,0,0,,COME ON, SIMPSON. THE DOG'S NAME IS WHIRLWIND.\N来吧，辛普森。那狗叫旋风。
+
+Dialogue: 0,0:16:17.39,0:16:19.79,Default,,0,0,0,,TEN-TO-ONE SHOT. MONEY IN THE BANK.\N十赔一。稳赚不赔。
+
+Dialogue: 0,0:16:19.79,0:16:21.76,Default,,0,0,0,,- UH-UH.\N- AH, COME ON, DAD.\N- 呃，不行。\N- 拜托啦，老爸。
+
+Dialogue: 0,0:16:21.76,0:16:24.70,Default,,0,0,0,,THIS CAN BE THE MIRACLE THAT SAVES THE SIMPSONS' CHRISTMAS.\N这会是拯救辛普森家圣诞节的奇迹。
+
+Dialogue: 0,0:16:24.70,0:16:26.63,Default,,0,0,0,,IF TV HAS TAUGHT ME ANYTHING,\N如果电视教会了我什么，
+
+Dialogue: 0,0:16:26.63,0:16:29.58,Default,,0,0,0,,IT'S THAT MIRACLES ALWAYS HAPPEN TO POOR KIDS AT CHRISTMAS.\N那就是圣诞节奇迹总会降临在穷孩子身上。
+
+Dialogue: 0,0:16:29.59,0:16:33.51,Default,,0,0,0,,IT HAPPENED TO TINY TIM, IT HAPPENED TO CHARLIE BROWN, IT HAPPENED TO THE SMURFS,\N小提姆经历过，查理·布朗经历过，蓝精灵也经历过，
+
+Dialogue: 0,0:16:33.51,0:16:35.48,Default,,0,0,0,,AND IT'S GONNA HAPPEN TO US.\N这次轮到我们了。
+
+Dialogue: 0,0:16:37.44,0:16:40.88,Default,,0,0,0,,WELL, OKAY, LET'S GO. WHO'S TINY TIM?\N好吧，走吧。小提姆是谁？
+
+Dialogue: 0,0:16:42.25,0:16:44.06,Default,,0,0,0,,HEY, MOLDY, DO YOU THINK SANTA WILL BE ABLE TO FIND...\N嘿，霉霉，你觉得圣诞老人能在……
+
+Dialogue: 0,0:16:44.07,0:16:46.53,Default,,0,0,0,,ELF COUNTY UNDER ALL THIS SNOW?\N这么大的雪下找到精灵县吗？
+
+Dialogue: 0,0:16:46.52,0:16:51.42,Default,,0,0,0,,I DOUBT IT, BUBBLES. WE'LL BE SAD LITTLE ELVES THIS CHRISTMAS.\N恐怕不能，泡泡。今年我们要当伤心的小精灵了。
+
+Dialogue: 0,0:16:51.43,0:16:53.38,Default,,0,0,0,,OH, NO! OH, BROTHER.\N哦，不！天哪。
+
+Dialogue: 0,0:16:53.73,0:16:55.84,Default,,0,0,0,,WHERE'S YOUR HUSBAND? YEAH. IT'S GETTING LATE.\N你丈夫呢？是啊，天都晚了。
+
+Dialogue: 0,0:16:55.83,0:16:58.28,Default,,0,0,0,,SAID HE WENT CAROLING WITH BART.\N说他和巴特去唱圣诞颂歌了。
+
+Dialogue: 0,0:16:58.28,0:17:02.22,Default,,0,0,0,,♪ WE'RE IN THE MONEY WE'RE IN THE MONEY ♪\N♪ 我们发财啦，我们发财啦 ♪
+
+Dialogue: 0,0:17:02.22,0:17:05.65,Default,,0,0,0,,♪ WE GOT A LOT OF WHAT IT TAKES TO GET ALONG ♪\N♪ 我们拥有了过日子所需的一切 ♪
+
+Dialogue: 0,0:17:05.66,0:17:07.63,Default,,0,0,0,,I CAN'T BELIEVE I'M DOING THIS.\N我不敢相信自己在干这事。
+
+Dialogue: 0,0:17:07.63,0:17:11.07,Default,,0,0,0,,CAN WE OPEN OUR PRESENTS NOW, DAD?\N我们现在能拆礼物了吗，老爸？
+
+Dialogue: 0,0:17:11.06,0:17:14.01,Default,,0,0,0,,YOU KNOW THE TRADITION, SON. NOT TILL THE EIGHTH RACE.\N你知道规矩，儿子。要等到第八场比赛。
+
+Dialogue: 0,0:17:14.01,0:17:16.46,Default,,0,0,0,,HEY, BARNEY, WHICH ONE IS WHIRLWIND?\N嘿，巴尼，哪只是旋风？
+
+Dialogue: 0,0:17:16.47,0:17:20.39,Default,,0,0,0,,NUMBER SIX. THAT'S OUR LUCKY DOG RIGHT OVER THERE.\N六号。就是那边那只幸运狗。
+
+Dialogue: 0,0:17:20.39,0:17:22.86,Default,,0,0,0,,HE'S WON HIS LAST FIVE RACES.\N它已经连赢五场了。
+
+Dialogue: 0,0:17:22.86,0:17:25.32,Default,,0,0,0,,WHAT? THAT SCRAWNY LITTLE BAG OF BONES?\N什么？那只瘦骨嶙峋的小可怜？
+
+Dialogue: 0,0:17:25.31,0:17:28.26,Default,,0,0,0,,COME ON, DAD. THEY'RE ALL SCRAWNY LITTLE BAGS OF BONES.\N拜托，老爸。它们都是瘦骨嶙峋的小可怜。
+
+Dialogue: 0,0:17:28.26,0:17:30.71,Default,,0,0,0,,YEAH, YOU'RE RIGHT.\N是啊，你说得对。
+
+Dialogue: 0,0:17:30.71,0:17:34.15,Default,,0,0,0,,I GUESS WHIRLWIND IS OUR ONLY HOPE FOR A MERRY CHRISTMAS.\N看来旋风是我们圣诞快乐的唯一希望了。
+
+Dialogue: 0,0:17:34.15,0:17:36.60,Default,,0,0,0,,ATTENTION, RACING FANS, WE HAVE A LATE SCRATCH...\N各位赛狗迷请注意，临时有退赛……
+
+Dialogue: 0,0:17:36.60,0:17:38.57,Default,,0,0,0,,IN THE FOURTH RACE.\N第四场比赛。
+
+Dialogue: 0,0:17:38.57,0:17:41.52,Default,,0,0,0,,NUMBER 8, SIR GALAHAD WILL BE REPLACED BY SANTA'S LITTLE HELPER.\N八号，高文爵士将由“圣诞小帮手”顶替。
+
+Dialogue: 0,0:17:41.53,0:17:45.45,Default,,0,0,0,,ONCE AGAIN, SIR GALAHAD HAS BEEN REPLACED BY SANTA'S LITTLE HELPER.\N再次通知：高文爵士由“圣诞小帮手”顶替。
+
+Dialogue: 0,0:17:45.95,0:17:47.92,Default,,0,0,0,,BART, DID YOU HEAR THAT?\N巴特，你听见了吗？
+
+Dialogue: 0,0:17:47.92,0:17:49.87,Default,,0,0,0,,WHAT A NAME! SANTA'S LITTLE HELPER!\N多棒的名字！“圣诞小帮手”！
+
+Dialogue: 0,0:17:49.87,0:17:53.79,Default,,0,0,0,,IT'S A SIGN! IT'S AN OMEN! IT'S A COINCIDENCE, DAD.\N这是预兆！是征兆！只是巧合，老爸。
+
+Dialogue: 0,0:17:53.79,0:17:56.73,Default,,0,0,0,,- WHAT ARE THE ODDS ON SANTA'S LITTLE HELPER?\N- NINETY-NINE TO ONE.\N- “圣诞小帮手”的赔率是多少？\N- 九十九比一。
+
+Dialogue: 0,0:17:56.72,0:18:02.44,Default,,0,0,0,,WOW! NINETY-NINE TIMES THIRTEEN EQUALS... MERRY CHRISTMAS!\N哇！99乘以13等于……圣诞快乐！
+
+Dialogue: 0,0:18:02.45,0:18:04.59,Default,,0,0,0,,I GOT A BAD FEELING ABOUT THIS.\N我有种不祥的预感。
+
+Dialogue: 0,0:18:04.58,0:18:06.55,Default,,0,0,0,,DON'T YOU BELIEVE IN ME, SON? UH--\N你不相信我吗，儿子？呃——
+
+Dialogue: 0,0:18:06.55,0:18:09.50,Default,,0,0,0,,COME ON, BOY. SOMETIMES YOUR FAITH IS ALL THAT KEEPS ME GOING.\N来吧，孩子。有时候你的信任是我坚持下去的唯一动力。
+
+Dialogue: 0,0:18:11.96,0:18:14.41,Default,,0,0,0,,OH, GO FOR IT, DAD.\N哦，放手一搏吧，老爸。
+
+Dialogue: 0,0:18:14.41,0:18:18.35,Default,,0,0,0,,THAT'S MY BOY! EVERYTHING ON SANTA'S LITTLE HELPER.\N好样的！全押“圣诞小帮手”！
+
+Dialogue: 0,0:18:18.55,0:18:20.80,Default,,0,0,0,,THREE CHEERS FOR BRAINY!\N为聪明鬼欢呼三声！
+
+Dialogue: 0,0:18:20.80,0:18:23.26,Default,,0,0,0,,- HIP HIP HOORAY!\N- YAY!\N- 万岁！\N- 耶！
+
+Dialogue: 0,0:18:23.25,0:18:25.22,Default,,0,0,0,,UNADULTERATED PAP.\N纯粹的废话。
+
+Dialogue: 0,0:18:25.22,0:18:28.17,Default,,0,0,0,,IT'S ALMOST 9:00. WHERE'S HOMER ANYWAY?\N快九点了。霍默到底去哪儿了？
+
+Dialogue: 0,0:18:28.17,0:18:31.11,Default,,0,0,0,,IT'S SO TYPICAL OF THE BIG DOOFUS TO SPOIL IT ALL.\N那个大笨蛋总是把事情搞砸。
+
+Dialogue: 0,0:18:31.11,0:18:33.57,Default,,0,0,0,,- WHAT, AUNT PATTY?\N- OH, NOTHING, DEAR.\N- 怎么了，帕蒂阿姨？\N- 哦，没什么，亲爱的。
+
+Dialogue: 0,0:18:33.58,0:18:35.54,Default,,0,0,0,,I'M JUST TRASHING YOUR FATHER.\N我只是在说你爸爸的坏话。
+
+Dialogue: 0,0:18:35.53,0:18:37.46,Default,,0,0,0,,WELL, I WISH YOU WOULDN'T...\N我希望你别这样……
+
+Dialogue: 0,0:18:37.46,0:18:41.88,Default,,0,0,0,,BECAUSE ASIDE FROM THE FACT THAT HE HAS THE SAME FRAILTIES AS ALL HUMAN BEINGS,\N因为除了他和所有凡人一样有缺点之外，
+
+Dialogue: 0,0:18:41.89,0:18:43.86,Default,,0,0,0,,HE'S THE ONLY FATHER I HAVE.\N他是我唯一的父亲。
+
+Dialogue: 0,0:18:43.85,0:18:46.80,Default,,0,0,0,,THEREFORE, HE IS MY MODEL OF MANHOOD,\N因此，他是我男子气概的榜样，
+
+Dialogue: 0,0:18:46.81,0:18:51.24,Default,,0,0,0,,AND MY ESTIMATION OF HIM WILL GOVERN THE PROSPECTS OF MY ADULT RELATIONSHIPS.\N我对他的评价将决定我成年后人际关系的前景。
+
+Dialogue: 0,0:18:51.23,0:18:54.66,Default,,0,0,0,,SO I HOPE YOU BEAR IN MIND THAT ANY KNOCK AT HIM IS A KNOCK AT ME,\N所以希望你记住，任何对他的贬低都是对我的贬低，
+
+Dialogue: 0,0:18:55.15,0:18:59.08,Default,,0,0,0,,AND I'M FAR TOO YOUNG TO DEFEND MYSELF AGAINST SUCH ONSLAUGHTS.\N而我年纪太小，无力抵御这种攻击。
+
+Dialogue: 0,0:19:00.55,0:19:03.50,Default,,0,0,0,,MM-HMM. GO WATCH YOUR CARTOON SHOW, DEAR.\N嗯哼。去看你的动画片吧，亲爱的。
+
+Dialogue: 0,0:19:03.51,0:19:05.48,Default,,0,0,0,,COME ON, BART.\N来吧，巴特。
+
+Dialogue: 0,0:19:05.48,0:19:08.42,Default,,0,0,0,,KISS THE TICKET FOR GOOD LUCK, NOT THAT WE NEED IT.\N亲一下彩票求好运，虽然我们不需要。
+
+Dialogue: 0,0:19:11.85,0:19:14.26,Default,,0,0,0,,HERE COMES SCREWY THE MECHANICAL RABBIT.\N机械兔子“歪歪”上场了。
+
+Dialogue: 0,0:19:14.27,0:19:15.74,Default,,0,0,0,,AND THEY'RE OFF!\N比赛开始！
+
+Dialogue: 0,0:19:15.74,0:19:19.18,Default,,0,0,0,,COME ON, SANTA'S LITTLE HELPER! COME ON, DOG! GO, MAN, GO!\N加油，“圣诞小帮手”！加油，狗狗！冲啊，伙计，冲啊！
+
+Dialogue: 0,0:19:19.17,0:19:22.12,Default,,0,0,0,,IT'S WHIRLWIND IN THE LANE, AND COMING UP ON THE LEFT IS QUADRUPED,\N旋风领先，左边追上来的是四足，
+
+Dialogue: 0,0:19:22.13,0:19:24.59,Default,,0,0,0,,FOLLOWED BY DOG O'WAR AND FIDO.\N后面是战狗和菲多。
+
+Dialogue: 0,0:19:24.58,0:19:27.53,Default,,0,0,0,,GO! COME ON, BOY! GO, SANTA'S LITTLE HELPER! COME ON, GET THAT RABBIT!\N冲！加油，孩子！冲啊，“圣诞小帮手”！快去抓兔子！
+
+Dialogue: 0,0:19:27.53,0:19:29.83,Default,,0,0,0,,DOG O'WAR COMING UP FAST ON THE OUTSIDE.\N战狗从外道快速追上！
+
+Dialogue: 0,0:19:29.83,0:19:32.45,Default,,0,0,0,,COME ON, SANTA'S LITTLE HELPER! COME ON, DOG! GO, MAN, GO!\N加油，“圣诞小帮手”！加油，狗狗！冲啊，伙计，冲啊！
+
+Dialogue: 0,0:19:32.45,0:19:35.35,Default,,0,0,0,,AND WITH A LOCK ON LAST PLACE, IT'S SANTA'S LITTLE HELPER.\N稳稳垫底的是“圣诞小帮手”。
+
+Dialogue: 0,0:19:35.36,0:19:39.28,Default,,0,0,0,,DON'T WORRY, DAD.\N别担心，老爸。
+
+Dialogue: 0,0:19:39.28,0:19:42.72,Default,,0,0,0,,MAYBE THIS IS JUST FOR SUSPENSE BEFORE THE MIRACLE HAPPENS.\N也许这只是奇迹发生前的悬念。
+
+Dialogue: 0,0:19:42.71,0:19:46.15,Default,,0,0,0,,COME ON, YOU STUPID DOG! COME ON, BOY! GO, GO!\N快点，你这笨狗！加油，孩子！冲啊，冲啊！
+
+Dialogue: 0,0:19:46.15,0:19:48.62,Default,,0,0,0,,RUN! RUN! RUN, BABY, RUN! COME ON, GET THAT RABBIT!\N跑！跑！快跑，宝贝，快跑！去抓兔子啊！
+
+Dialogue: 0,0:19:48.62,0:19:51.29,Default,,0,0,0,,- GO, GO, SANTA'S LITTLE HELPER! RUN, BABY, RUN!\N- GO, GO, GO!\N- 冲啊，冲啊，“圣诞小帮手”！快跑，宝贝，快跑！\N- 冲啊，冲啊，冲啊！
+
+Dialogue: 0,0:19:51.29,0:19:55.46,Default,,0,0,0,,WHIRLWIND BY A COUNTRY MILE, AND IN SECOND, CHEW MY SHOE, FOLLOWED BY DOG O'WAR.\N旋风遥遥领先，第二名是“咬我鞋”，战狗紧随其后。
+
+Dialogue: 0,0:19:55.46,0:19:57.91,Default,,0,0,0,,OH, JEEZ!\N哦，天哪！
+
+Dialogue: 0,0:19:57.91,0:20:01.35,Default,,0,0,0,,DOESN'T SEEM POSSIBLE, BUT I GUESS TV HAS BETRAYED ME.\N难以置信，但看来电视骗了我。
+
+Dialogue: 0,0:20:01.35,0:20:03.80,Default,,0,0,0,,I DON'T WANNA LEAVE TILL OUR DOG FINISHES.\N我不想走，直到我们的狗跑完。
+
+Dialogue: 0,0:20:09.17,0:20:10.94,Default,,0,0,0,,AH, FORGET IT. LET'S GO.\N唉，算了。走吧。
+
+Dialogue: 0,0:20:20.40,0:20:22.83,Default,,0,0,0,,FIND ANY WINNERS, SON? SORRY, DAD.\N找到赢家了吗，儿子？抱歉，老爸。
+
+Dialogue: 0,0:20:23.34,0:20:26.28,Default,,0,0,0,,HEY, HEY, SIMPSON! WHAT'D I TELL YOU?\N嘿，辛普森！我说什么来着？
+
+Dialogue: 0,0:20:26.27,0:20:29.22,Default,,0,0,0,,- WHIRLWIND!\N- LET'S GO, DARIA.\N- 旋风！\N- 走吧，达莉亚。
+
+Dialogue: 0,0:20:34.15,0:20:37.09,Default,,0,0,0,,BEAT IT! SCRAM! GET LOST!\N滚开！快走！消失！
+
+Dialogue: 0,0:20:37.08,0:20:40.03,Default,,0,0,0,,YOU CAME IN LAST FOR THE LAST TIME!\N这是你最后一次垫底了！
+
+Dialogue: 0,0:20:40.04,0:20:42.50,Default,,0,0,0,,LOOK, DAD, IT'S SANTA'S LITTLE HELPER.\N看，老爸，是“圣诞小帮手”。
+
+Dialogue: 0,0:20:42.49,0:20:45.39,Default,,0,0,0,,AND DON'T COME BACK!\N别再回来了！
+
+Dialogue: 0,0:20:45.39,0:20:48.34,Default,,0,0,0,,OH, NO, YOU DON'T! NO, NO! GET AWAY FROM ME! UH-UH!\N不，你别想！不，不！离我远点！呃，不行！
+
+Dialogue: 0,0:20:51.28,0:20:53.75,Default,,0,0,0,,OH, CAN WE KEEP HIM, DAD, PLEASE?\N哦，老爸，我们可以养它吗？求你了！
+
+Dialogue: 0,0:20:53.75,0:20:57.58,Default,,0,0,0,,BUT HE'S A LOSER! HE'S PATHETIC! HE'S--\N但它是个失败者！太可怜了！它——
+
+Dialogue: 0,0:20:59.51,0:21:01.65,Default,,0,0,0,,A SIMPSON.\N一个辛普森。
+
+Dialogue: 0,0:21:04.56,0:21:07.33,Default,,0,0,0,,HMM. MAYBE I SHOULD CALL THE POLICE.\N嗯……也许我该报警。
+
+Dialogue: 0,0:21:07.33,0:21:10.31,Default,,0,0,0,,OH, HE'LL SOBER UP. YEAH. COME STAGGERING HOME.\N哦，他会醒酒的。对，会摇摇晃晃地回家。
+
+Dialogue: 0,0:21:10.32,0:21:12.78,Default,,0,0,0,,MM-HMM. SMELLING OF CHEAP PERFUME.\N嗯哼。身上还带着廉价香水味。
+
+Dialogue: 0,0:21:12.77,0:21:15.20,Default,,0,0,0,,HOMER!\N霍默！
+
+Dialogue: 0,0:21:15.21,0:21:17.70,Default,,0,0,0,,- WHAT? WHAT THE-- WHO THE--\N- LOOK, EVERYBODY,\N- 什么？怎么回事——谁——\N- 大家看，
+
+Dialogue: 0,0:21:17.69,0:21:21.58,Default,,0,0,0,,I HAVE A CONFESSION TO MAKE. THIS SHOULD BE GOOD.\N我有件事要坦白。这下有好戏看了。
+
+Dialogue: 0,0:21:21.58,0:21:24.08,Default,,0,0,0,,I DIDN'T GET MY CHRISTMAS BONUS.\N我没拿到圣诞奖金。
+
+Dialogue: 0,0:21:24.08,0:21:26.53,Default,,0,0,0,,I TRIED NOT TO LET IT RUIN CHRISTMAS FOR EVERYBODY,\N我不想让这事毁了大家的圣诞节，
+
+Dialogue: 0,0:21:26.53,0:21:28.50,Default,,0,0,0,,BUT NO MATTER WHAT I DID--\N但不管我怎么做——
+
+Dialogue: 0,0:21:28.99,0:21:32.40,Default,,0,0,0,,HEY, EVERYBODY, LOOK WHAT WE GOT!\N大家快看，我们得到了什么！
+
+Dialogue: 0,0:21:32.39,0:21:34.81,Default,,0,0,0,,A DOG! ALL RIGHT, DAD!\N一只狗！太棒了，老爸！
+
+Dialogue: 0,0:21:34.81,0:21:39.28,Default,,0,0,0,,- GOD BLESS HIM.\N- SO LOVE AT FIRST SIGHT IS POSSIBLE.\N- 愿上帝保佑它。\N- 所以一见钟情是可能的。
+
+Dialogue: 0,0:21:39.28,0:21:41.73,Default,,0,0,0,,AND IF HE RUNS AWAY, HE'LL BE EASY TO CATCH.\N而且就算它跑了，也容易抓回来。
+
+Dialogue: 0,0:21:41.73,0:21:44.20,Default,,0,0,0,,OH, THIS IS THE BEST GIFT OF ALL, HOMER!\N哦，霍默，这是最好的礼物！
+
+Dialogue: 0,0:21:44.20,0:21:46.62,Default,,0,0,0,,IT IS? YES. SOMETHING TO SHARE OUR LOVE...\N是吗？是的。一个能分享我们爱的……
+
+Dialogue: 0,0:21:47.12,0:21:48.59,Default,,0,0,0,,AND FRIGHTEN PROWLERS.\N还能吓跑小偷。
+
+Dialogue: 0,0:21:48.59,0:21:51.02,Default,,0,0,0,,- WHAT'S HIS NAME?\N- NUMBER 8--\N- 它叫什么名字？\N- 八号——
+
+Dialogue: 0,0:21:51.02,0:21:54.02,Default,,0,0,0,,I MEAN, SANTA'S LITTLE HELPER.\N我是说，“圣诞小帮手”。
+
+Dialogue: 0,0:22:07.62,0:22:10.04,Default,,0,0,0,,♪ RUDOLPH THE RED-NOSED REINDEER ♪\N♪ 红鼻子驯鹿鲁道夫 ♪
+
+Dialogue: 0,0:22:10.54,0:22:13.54,Default,,0,0,0,,♪ HAD A VERY SHINY NOSE ♪\N♪ 有个闪亮的红鼻子 ♪
+
+Dialogue: 0,0:22:13.55,0:22:16.56,Default,,0,0,0,,♪ AND IF YOU EVER SAW IT ♪\N♪ 如果你见过它 ♪
+
+Dialogue: 0,0:22:16.55,0:22:19.55,Default,,0,0,0,,♪ YOU WOULD EVEN SAY IT GLOWS LIKE A LIGHT BULB!\N♪ 你甚至会说它像灯泡一样发光！
+
+Dialogue: 0,0:22:19.55,0:22:22.30,Default,,0,0,0,,BART! ♪ ALL OF THE OTHER REINDEER ♪\N巴特！♪ 其他驯鹿都 ♪
+
+Dialogue: 0,0:22:22.79,0:22:24.64,Default,,0,0,0,,♪ USED TO LAUGH AND CALL HIM NAMES ♪\N♪ 笑他，给他起外号 ♪
+
+Dialogue: 0,0:22:24.64,0:22:26.61,Default,,0,0,0,,- LIKE SHNOZZOLA!\N- LISA!\N- 比如“大鼻头”！\N- 丽莎！
+
+Dialogue: 0,0:22:26.61,0:22:29.03,Default,,0,0,0,,♪ THEY NEVER LET POOR RUDOLPH ♪\N♪ 他们从不让可怜的鲁道夫 ♪
+
+Dialogue: 0,0:22:29.03,0:22:31.91,Default,,0,0,0,,♪ JOIN IN ANY REINDEER GAMES LIKE STRIP POKER!\N♪ 参加任何驯鹿游戏，比如脱衣扑克！
+
+Dialogue: 0,0:22:31.92,0:22:35.33,Default,,0,0,0,,I'M WARNING YOU TWO! ♪ THEN ONE FOGGY CHRISTMAS EVE ♪\N我警告你们俩！♪ 直到一个雾蒙蒙的圣诞夜 ♪
+
+Dialogue: 0,0:22:35.32,0:22:38.12,Default,,0,0,0,,♪ SANTA CAME TO SAY ♪ TAKE IT, HOMER!\N♪ 圣诞老人来到他说 ♪ 接着唱，霍默！
+
+Dialogue: 0,0:22:38.62,0:22:41.86,Default,,0,0,0,,♪ UH, RUDOLPH GET YOUR NOSE OVER HERE ♪\N♪ 呃，鲁道夫，把你的鼻子凑过来 ♪
+
+Dialogue: 0,0:22:41.86,0:22:45.38,Default,,0,0,0,,♪ SO YOU CAN GUIDE MY SLEIGH TODAY ♪ OH, HOMER.\N♪ 好让你今天为我引路 ♪ 哦，霍默。
+
+Dialogue: 0,0:22:45.38,0:22:48.21,Default,,0,0,0,,♪ THEN ALL THE REINDEER LOVED HIM ♪\N♪ 于是所有驯鹿都爱他 ♪
+
+Dialogue: 0,0:22:48.22,0:22:51.56,Default,,0,0,0,,♪ AND THEY SHOUTED OUT WITH GLEE ♪\N♪ 他们欢呼雀跃 ♪
+
+Dialogue: 0,0:22:51.55,0:22:54.43,Default,,0,0,0,,♪ RUDOLPH THE RED-NOSED REINDEER ♪\N♪ 红鼻子驯鹿鲁道夫 ♪
+
+Dialogue: 0,0:22:54.44,0:22:57.95,Default,,0,0,0,,♪ YOU'LL GO DOWN IN HISTORY ♪\N♪ 你的名字将永载史册 ♪
+
+Dialogue: 0,0:22:57.94,0:23:00.44,Default,,0,0,0,,♪ LIKE ATTILA THE HU-- ♪ YOU LITTLE--\N♪ 就像阿提拉匈—— ♪ 你这个小——
+
+Dialogue: 0,0:23:03.43,0:23:05.43,Default,,0,0,0,,SHH.\N嘘——
