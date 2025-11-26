@@ -123,3 +123,9 @@ Selector list:
 Relative selector:
     A relative selector is a selector representing an element relative to one or more anchor elements preceded by a combinator. 
     Relative selectors that don't begin with an explicit combinator have an implied descendant combinator.
+:has(a) { # 所有包含a元素的元素的字体red
+color: red;
+}
+p:has(+ a) { # 所有后面紧跟着a元素的p元素的字体green
+color: green;
+}
