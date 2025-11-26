@@ -1,0 +1,125 @@
+If a box has a display value of block, then:
+The box will break onto a new line.
+The width and height properties are respected.
+Padding, margin and border will cause other elements to be pushed away from the box.
+If width is not specified, the box will extend in the inline direction to fill the space available in its container. In most cases, the box will become as wide as its container, filling up 100% of the space available.
+
+If a box has a display type of inline, then:
+The box will not break onto a new line.
+The width, height, and top and bottom margins will have no effect.
+Top and bottom padding and borders will change the size of the box without affecting the position of surrounding content, which can cause overlapping.
+Left and right padding, margins, and borders will affect the position of surrounding inline content.
+
+An element with display: inline-block does a subset of the block things we already know about:
+The width and height properties are respected.
+padding, margin, and border will cause other elements to be pushed away from the box.
+It does not, however, break onto a new line, and will only become larger than its content if you explicitly add width and height properties.
+
+If two vertically adjacent elements both have a margin set on them and their margins touch, the larger of the two margins remains and the smaller one disappears. This is known as margin collapsing. Collapsing margins is only relevant in the vertical direction.
+margin can be negative
+padding must >=0
+
+
+em 相对于本元素的字体大小，或者在用于 font-size 时相对于父元素的字体大小。rem 相对于根元素的字体大小。
+em 单位在用于 font-size 时表示“父元素的字体大小”（而在用于其他属性时则表示“自身的字体大小”）
+rem 单位的意思是“根元素的字体大小”（rem 代表“root em”）。
+
+
+vh 和 vw 分别相对于视口的高度和宽度。10vw 是视口宽度的 10%
+
+lh 和 rlh 是类似于 em 和 rem 的相对长度单位。lh 和 rlh 的区别在于，lh是相对于元素自身的行高，而rlh是相对于根元素（通常是 <html>）的行高。
+
+百分比总是相对于父元素设置的。例如，如果将元素的字体大小设置为百分比，那么它将是元素父元素字体大小的百分比。如果使用百分比作为宽度值，那么它将是父值宽度的百分比。
+当你使用百分比作为元素外边距或填充的单位时，你将得到一个相同尺寸的外边距或填充。
+
+在对替换元素使用各种 CSS 布局时，你可能会发现他们的表现方式与其他元素有一些细节上的差异。例如，flex 或者 grid 布局中，默认情况下元素会被拉伸到充满整块区域。但是图像不会被拉伸，而会对齐到网格区域或者弹性容器的起始处。
+
+请记住，包含在元素中的文本是作为一个单一的实体。你不能将文字其中一部分选中或添加样式，如果你要这么做，那么你必须要用适合的元素来包装它们，比如 ( <span> 或者 <strong>), 或者使用伪元素，像::first-letter (选中元素文本的第一个字母), ::first-line (选中元素文本的第一行), 或者 ::selection (当前光标双击选中的文本)
+
+line-height CSS 属性用于设置多行元素的空间量，如多行文本的间距。对于块级元素，它指定元素行盒（line boxes）的最小高度。对于非可替换的 inline 元素，它用于计算行盒（line box）的高度。
+line-height 属性设置文本每行之间的高，可以接受大多数单位 length and size units，不过也可以设置一个无单位的值，作为乘数，通常这种是比较好的做法。无单位的值乘以 font-size 来获得 line-height。当行与行之间拉开空间，正文文本通常看起来更好更容易阅读。推荐的行高大约是 1.5–2 (双倍间距。) 所以要把我们的文本行高设置为字体高度的 1.5 倍
+
+
+元素轮廓是绘制于元素周围的一条线，位于border的外围，使元素突出
+!important > Inline styles
+
+origin :
+    User-agent stylesheets:
+        Unless the user-agent stylesheet includes an !important next to a property, making it "important", 
+        styles declared by author styles, including a reset stylesheet, take precedence over the user-agent styles, 
+        regardless of the specificity of the associated selector.
+    Author stylesheets:
+        The author, or web developer, defines the styles for the document using one or more linked or imported stylesheets, <style> blocks, 
+        and inline styles defined with the style attribute. 
+    User stylesheets:
+        the user (or reader) of the website can choose to override styles using a custom user stylesheet designed to tailor the experience to the user's wishes.
+    Precedence Order (low to high)	        Origin	          Importance
+            1                       user-agent (browser)	    normal
+            2                           user	                normal
+            3                       author (developer)	        normal
+            4                       CSS keyframe animations	
+            5                       author (developer)	        !important
+            6                       user	                    !important
+            7                       user-agent (browser)	    !important
+            8                       CSS transitions	
+    The cascade algorithm is applied before the specificity algorithm, 
+    meaning if :root p { color: red;} is declared in the user stylesheet (row 2) and 
+    a less specific p {color: blue;} is in the author stylesheet (row 3), the paragraphs will be blue.
+
+layer:
+    The cascade order is based on origin type. 
+    The cascade within each origin type is based on the declaration order of cascade layers within that type.
+    For all origins - user-agent, author, or user - styles can be declared within or outside of named or anonymous layers. 
+    When declared using layer, layer() or @layer, styles are placed into the specified named layer, or into an anonymous layer if no name is provided. 
+    Styles declared outside of a layer are treated as being part of an anonymous last declared layer.
+    The order in which layers are declared is important in determining precedence.
+     Normal styles in a layer take precedence over styles declared in prior layers; 
+     with normal styles declared outside of any layer taking precedence over normal layered styles regardless of specificity.
+specificity
+
+
+@import "theme.css" layer(utilities);
+In the above example, a cascade layer named utilities is created and it will include rules from the imported stylesheet theme.
+@import "headings.css" layer(default);
+@import "links.css" layer(default);
+
+@layer default {
+  audio[controls] {
+    display: block;
+  }
+}
+In the above example, the rules in headings.css and links.css stylesheets cascade within the same layer as the audio[controls] rule.
+@import "theme.css" layer();
+@import "style.css" layer;
+This is an example of creating two separate unnamed cascade layers and importing the linked rules into each one separately. 
+A cascade layer declared without a name is an unnamed cascade layer. 
+Unnamed cascade layers are finalized when created: they do not provide any means for re-arranging or adding styles and they cannot be referenced from outside.
+
+
+/* statement at-rules */
+@layer layer-name;
+@layer layer-name, layer-name, layer-name;
+
+/* block at-rules */
+@layer {rules}
+@layer layer-name {rules}
+
+basic selector:
+    type selector, universal selector, ID selector, class selector
+Simple selector:
+     basic selector, attribute selector, pseudo-class, or pseudo-element 
+Compound selector:
+    A compound selector is a sequence of simple selectors that are not separated by a combinator.
+    A compound selector represents a set of simultaneous conditions on a single element. 
+Combinators:
+    Using CSS combinators, we can combine selectors to select DOM nodes based on their relationship to other elements within the document node tree. 
+    This combining of selectors with combinators creates complex selectors.
+Complex selector:
+    A complex selector is a sequence of one or more simple and/or compound selectors that are separated by combinators, 
+    including the white space descendant combinator.
+Selector list:
+    A selector list is a comma-separated(,) list of simple, compound, and/or complex selectors. 
+    A given element is said to match a selector list when the element matches any (at least one) of the selectors in that selector list.
+Relative selector:
+    A relative selector is a selector representing an element relative to one or more anchor elements preceded by a combinator. 
+    Relative selectors that don't begin with an explicit combinator have an implied descendant combinator.
