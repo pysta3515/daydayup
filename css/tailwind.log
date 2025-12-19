@@ -1,0 +1,40 @@
+Use the has-* variant to style an element based on the state or content of its descendants
+<label
+  class="has-checked:bg-indigo-50 has-checked:text-indigo-900 has-checked:ring-indigo-200 dark:has-checked:bg-indigo-950 dark:has-checked:text-indigo-200 dark:has-checked:ring-indigo-900 ..."
+>
+  <svg fill="currentColor">
+    <!-- ... -->
+  </svg>
+  Google Pay
+  <input type="radio" class="checked:border-indigo-500 ..." />
+</label>
+
+style an element based on the descendants of a parent element, you can mark the parent with the group class and use the group-has-* variant to style the target element:
+<div class="group ...">
+  <img src="..." />
+  <h4>Spencer Sharp</h4>
+  <svg class="hidden group-has-[a]:block ..."><!-- ... --></svg>
+  <p>Product Designer at <a href="...">planeteria.tech</a></p>
+</div>
+
+Styling based on the descendants of a peer:
+style an element based on the descendants of a sibling element, you can mark the sibling with the peer class and use the peer-has-* variant to style the target element:
+<div>
+  <label class="peer ...">
+    <input type="checkbox" name="todo[1]" checked />
+    Create a to do list
+  </label>
+  <svg class="peer-has-checked:hidden ..."><!-- ... --></svg>
+</div>
+
+Styling based on parent state:
+style an element based on the state of some parent element, mark the parent with the group class, and use group-* variants like group-hover to style the target element:
+<a href="#" class="group ...">
+  <div>
+    <svg class="stroke-sky-500 group-hover:stroke-white ..." fill="none" viewBox="0 0 24 24">
+      <!-- ... -->
+    </svg>
+    <h3 class="text-gray-900 group-hover:text-white ...">New project</h3>
+  </div>
+  <p class="text-gray-500 group-hover:text-white ...">Create a new project from a variety of starting templates.</p>
+</a>

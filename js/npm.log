@@ -1,0 +1,8 @@
+npx create-vite vite-vanilla-app --template vanilla
+npm init vite vite-vanilla-app -- --template vanilla
+
+npx create-vite vite-react-app --template react
+npm init vite vite-react-app -- --template react
+
+npx create-react-router@latest reactrouter-js-app --template remix-run/react-router-templates/javascript
+npm init react-router@latest reactrouter-js-app --template remix-run/react-router-templates/javascript

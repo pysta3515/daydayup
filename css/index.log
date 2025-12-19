@@ -129,3 +129,18 @@ color: red;
 p:has(+ a) { # 所有后面紧跟着a元素的p元素的字体green
 color: green;
 }
+
+:has()
+    The functional :has() CSS pseudo-class represents an element if any of the relative selectors that are passed as an argument match at least one element when anchored against this element. 
+    This pseudo-class presents a way of selecting a parent element or a previous sibling element with respect to a reference element by taking a relative selector list as an argument.
+    /* Selects an h1 heading with a
+    paragraph element that immediately follows
+    the h1 and applies the style to h1 */
+    h1:has(+ p) {
+        margin-bottom: 0;
+    }
+
+& nesting selector:
+    The CSS & nesting selector explicitly states the relationship between parent and child rules when using CSS nesting. 
+    It makes the nested child rule selectors relative to the parent element. 
+    Without the & nesting selector, the child rule selector selects child elements. 
